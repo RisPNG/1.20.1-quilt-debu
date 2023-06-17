@@ -3,7 +3,6 @@
 ## Getting started
 
 Before you begin:
-- Have you read the [code of conduct](CODE_OF_CONDUCT.md)?
 - Check out the [existing issues](https://github.com/RisPNG/1.20.1-quilt-debu/issues) & see if there is already an opened issue.
 
 ### Ready to make a change? Fork the repo
