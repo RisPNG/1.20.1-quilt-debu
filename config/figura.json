@@ -1,0 +1,17 @@
+{
+  "CONFIG_VERSION": 1,
+  "self_nameplate": true,
+  "preview_nameplate": true,
+  "format_script": 0,
+  "iris_compatibility_fix": 2,
+  "render_debug_parts_pivot": 2,
+  "allow_fp_hands": true,
+  "action_wheel_button": "key.keyboard.n",
+  "action_wheel_mode": 1,
+  "preview_head_rotation": true,
+  "has_paperdoll": true,
+  "paperdoll_always_on": true,
+  "first_person_paperdoll": false,
+  "popup_button": "key.keyboard.unknown",
+  "default_permission_level": 4
+}
