@@ -10,9 +10,9 @@
 - modrinth - a mod distribution platform: https://modrinth.com/
 - CurseForge: https://www.curseforge.com/
 
-> This repository contains Quilt mods with personalized config files, resourcepacks, and shaderpacks for Dust. However, this repo is completely free for anyone to use.
+> This repo (repository) contains Quilt mods with personalized config files, resourcepacks, and shaderpacks for Dust. However, this repo is completely free for anyone to use.
 
-> Everything included in this repository is suitable for use in multiplayer servers, although a few of them might be considered unfair depending on the server.
+> Everything included in this repo is suitable for use in multiplayer servers, although a few of them might be considered unfair depending on the server.
 
 # README Contents
 1. 🤝 [Support](#support)
@@ -44,8 +44,12 @@ git clone https://github.com/RisPNG/1.20.1-quilt-debu
 ```
 -Xmx2G -Xms2G -XX:+AlwaysActAsServerClassMachine -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:+UseVectorCmov -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:AllocatePrefetchStyle=3 -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:ShenandoahGuaranteedGCInterval=1000000 -XX:AllocatePrefetchStyle=1 -XX:+UseLargePages -XX:LargePageSizeInBytes=2m
 ```
-** You may change the "-Xmx2G -Xms2G" flags based on your available RAM. Recommended is 8G.
-#### 4. Enjoy!
+	* You may change the "-Xmx2G -Xms2G" flags based on your available RAM. Recommended is 8G.
+#### 4. If you want to update your local repo, open the terminal and execute the following command in the location of your cloned repo:
+```
+git pull
+```
+#### 5. Enjoy!
 
 ## Disclaimer
 This project comes with no guarantee or warranty. You are responsible for whatever happens from using this project. This is a personal project and is in no way affiliated with Mojang.
