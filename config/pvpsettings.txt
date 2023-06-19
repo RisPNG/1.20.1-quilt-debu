@@ -8,7 +8,7 @@ debugEntityVariantIds:false
 radarHideInvisibleEntities:true
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:true
-minimap:false
+minimap:true
 caveMaps:2
 caveZoom:1
 showWaypoints:true
@@ -63,7 +63,7 @@ zoomOnEnlarged:1
 minimapTextAlign:2
 waypointsMutualEdit:true
 compassLocation:1
-compassScale:1
+compassDirectionScale:0
 caveMapsDepth:30
 hideWaypointCoordinates:false
 renderAllSets:true

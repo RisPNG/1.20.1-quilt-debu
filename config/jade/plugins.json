@@ -15,7 +15,7 @@
     "beehive": true,
     "item_storage.detailed_amount": 54,
     "player_head": true,
-    "block_states": true,
+    "block_states": false,
     "lectern": true,
     "item_storage.normal_amount": 9,
     "entity_armor": true,
@@ -52,9 +52,9 @@
   "jade": {
     "coordinates.rel": false,
     "distance": false,
-    "block_face": true,
+    "block_face": false,
     "coordinates": false,
     "registry_name": "ON",
-    "mod_name": true
+    "mod_name": false
   }
 }
