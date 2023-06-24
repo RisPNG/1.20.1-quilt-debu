@@ -22,7 +22,12 @@
     "io.github.xiaocihua.stacktonearbychests.ModMenuApiImpl$1": true,
     "de.siphalor.coat.screen.ConfigScreen": true,
     "net.minecraft.class_410": true,
-    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "xaero.common.gui.GuiEditMode": true,
+    "xaero.common.gui.GuiEntityRadarSettings": true,
+    "xaero.pvp.gui.GuiArmour": true,
+    "gg.essential.gui.screenshot.components.ScreenshotBrowser": true,
+    "gg.essential.vigilance.gui.SettingsGui": true
   },
   "hideBackground": {
     "net.minecraft.class_4895": true,

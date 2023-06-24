@@ -113,10 +113,10 @@ betterSprint:false
 showArmor:true
 showEffects:true
 showEffectNames:true
-showFullAmount:false
+showFullAmount:true
 keepSneak:true
 enchantColor:7
-durability:2
+durability:1
 notifications:true
 notification_hunger:true
 notification_hp:true
@@ -146,7 +146,7 @@ itemTooltipTime:10
 potionEffectsBlink:true
 armourStatusMainHand:true
 armourStatusOffHand:true
-heldItemsCenteredPosition:0
+heldItemsCenteredPosition:1
 infoDisplayOrder:coords:overworld_coords:chunk_coords:angles:dimension:biome:weather:light_level:time:real_time:highlights:light_overlay_indicator:manual_cave_mode_indicator:custom_sub_world
 infoDisplay:coords:true:15:-1
 infoDisplay:overworld_coords:true:15:-1
@@ -163,10 +163,10 @@ infoDisplay:light_overlay_indicator:true:15:-1
 infoDisplay:manual_cave_mode_indicator:true:15:-1
 infoDisplay:custom_sub_world:true:15:-1
 interface:gui.xaero_potion_status:0:0:true:false:false:false
-interface:gui.xaero_armour_status:-74:102:false:false:false:true
+interface:gui.xaero_armour_status:-7:37:true:false:false:true
 interface:gui.xaero_xp_setting:0:0:true:false:false:true
 interface:gui.xaero_notifications:0:36:true:false:false:false
-interface:gui.xaero_minimap:0:0:false:false:true:false
+interface:gui.xaero_minimap:101:19:false:false:true:false
 interface:gui.xaero_entity_info:-234:-46:false:false:false:false
 interface:gui.xaero_item_tooltip:128:13:false:false:true:true
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints
