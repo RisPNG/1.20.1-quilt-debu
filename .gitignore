@@ -10,5 +10,5 @@ schematics
 screenshots
 XaeroWaypoints*/
 realms_persistence.json
-servers.dat*
+servers.*
 usercache.json
