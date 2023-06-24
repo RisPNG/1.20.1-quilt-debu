@@ -4,6 +4,7 @@
   "renderCustomModelsGreen": false,
   "vanillaModelRenderMode": "Off",
   "mathFunctionChoice": "JavaMath",
-  "reloadMode": "ORIGINAL",
+  "tryForceEmfModels": true,
+  "printModdedMappingHelp": false,
   "attemptToCopyVanillaModelIntoMissingModelPart": true
 }

@@ -1,0 +1,11 @@
+{
+  "allowMovement": {
+    "io.github.bumblesoftware.fastload.client.BuildingTerrainScreen": true,
+    "net.minecraft.class_4895": true,
+    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true
+  },
+  "hideBackground": {
+    "net.minecraft.class_4895": true,
+    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true
+  }
+}

@@ -24,7 +24,7 @@
     "sky_colors": true
   },
   "render_settings": {
-    "fog_distance": 6,
+    "fog_distance": 4,
     "fog_start": 20,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
@@ -42,11 +42,11 @@
     "player_name_tag": true
   },
   "extra_settings": {
-    "overlay_corner": "TOP_LEFT",
+    "overlay_corner": "TOP_RIGHT",
     "text_contrast": "NONE",
-    "show_fps": false,
+    "show_fps": true,
     "show_f_p_s_extended": true,
-    "show_coords": false,
+    "show_coords": true,
     "reduce_resolution_on_mac": true,
     "use_adaptive_sync": false,
     "cloud_height": 192,

@@ -1,0 +1,14 @@
+.cache
+config/**/litematica*
+crash-reports
+essential
+logs
+mods/**/Essential*
+mods/**/litematica*
+saves
+schematics
+screenshots
+XaeroWaypoints*/
+realms_persistence.json
+servers.dat*
+usercache.json
