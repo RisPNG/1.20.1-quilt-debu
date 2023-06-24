@@ -24,7 +24,7 @@ chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
 minimapOpacity:100.0
-waypointsIngameIconScale:1
+waypointsIngameIconScale:2
 waypointsIngameDistanceScale:1
 waypointsIngameNameScale:1
 waypointsIngameCloseScale:0.12500000186264515
@@ -56,8 +56,8 @@ alwaysShowDistance:false
 renderLayerIndex:1
 crossDimensionalTp:true
 biomeColorsVanillaMode:false
-lookingAtAngle:1
-lookingAtAngleVertical:1
+lookingAtAngle:180
+lookingAtAngleVertical:180
 centeredEnlarged:true
 zoomOnEnlarged:1
 minimapTextAlign:2

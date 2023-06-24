@@ -47,7 +47,7 @@
       "defaultValue": 10,
       "value": 10
     },
-    "favoriteItemStyle": "stack-to-nearby-chests:gold_badge"
+    "favoriteItemStyle": "stack-to-nearby-chests:gold_border"
   },
   "behavior": {
     "searchInterval": {
@@ -260,7 +260,9 @@
       "defaultKeys": []
     },
     "markAsFavoriteKey": {
-      "keys": [],
+      "keys": [
+        341
+      ],
       "defaultKeys": [
         342,
         -99

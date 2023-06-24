@@ -2,7 +2,27 @@
   "allowMovement": {
     "io.github.bumblesoftware.fastload.client.BuildingTerrainScreen": true,
     "net.minecraft.class_4895": true,
-    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true
+    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
+    "net.minecraft.class_433": true,
+    "fi.dy.masa.litematica.gui.GuiConfigs": true,
+    "fi.dy.masa.litematica.gui.GuiMainMenu": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicLoadedList": true,
+    "fi.dy.masa.litematica.gui.GuiAreaSelectionEditorSimple": true,
+    "fi.dy.masa.litematica.gui.GuiAreaSelectionManager": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicPlacementsList": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicLoad": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicManager": true,
+    "fi.dy.masa.litematica.gui.GuiTaskManager": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "xaero.pvp.gui.GuiPvpSettings": true,
+    "xaero.pvp.gui.GuiCustomization": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xaero.common.gui.GuiWaypointSettings": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "io.github.xiaocihua.stacktonearbychests.ModMenuApiImpl$1": true,
+    "de.siphalor.coat.screen.ConfigScreen": true,
+    "net.minecraft.class_410": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_4895": true,
