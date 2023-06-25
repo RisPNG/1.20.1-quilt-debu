@@ -244,11 +244,17 @@
   },
   "keymap": {
     "stackToNearbyContainersKey": {
-      "keys": [],
+      "keys": [
+        341,
+        91
+      ],
       "defaultKeys": []
     },
     "restockFromNearbyContainersKey": {
-      "keys": [],
+      "keys": [
+        341,
+        93
+      ],
       "defaultKeys": []
     },
     "quickStackKey": {
@@ -261,7 +267,8 @@
     },
     "markAsFavoriteKey": {
       "keys": [
-        341
+        341,
+        -99
       ],
       "defaultKeys": [
         342,
@@ -269,7 +276,10 @@
       ]
     },
     "openModOptionsScreenKey": {
-      "keys": [],
+      "keys": [
+        341,
+        92
+      ],
       "defaultKeys": [
         341,
         83,

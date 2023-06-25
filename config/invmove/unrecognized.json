@@ -27,10 +27,19 @@
     "xaero.common.gui.GuiEntityRadarSettings": true,
     "xaero.pvp.gui.GuiArmour": true,
     "gg.essential.gui.screenshot.components.ScreenshotBrowser": true,
-    "gg.essential.vigilance.gui.SettingsGui": true
+    "gg.essential.vigilance.gui.SettingsGui": true,
+    "gg.essential.gui.about.AboutMenu": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "dev.lambdaurora.lambdynlights.gui.SettingsScreen": true,
+    "net.minecraft.class_5375": true,
+    "dev.schmarrn.lighty.ui.ModeSwitcherScreen": true,
+    "dev.schmarrn.lighty.ui.SettingsScreen": true,
+    "io.github.xiaocihua.stacktonearbychests.gui.ModOptionsScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_4895": true,
-    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true
+    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
+    "dev.schmarrn.lighty.ui.ModeSwitcherScreen": true,
+    "dev.schmarrn.lighty.ui.SettingsScreen": true
   }
 }

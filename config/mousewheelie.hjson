@@ -30,7 +30,7 @@
 		//   SOFT: The hotbar will be treated as part of the inventory. This does not apply when sending the whole inventory (ctrl+shift).
 		//   NONE: The hotbar will be treated as part of the inventory. This also applies when sending the whole inventory (ctrl+shift).
 		// default: SOFT
-		hotbar-scoping: SOFT
+		hotbar-scoping: NONE
 		// This helps when you regularly move your mouse faster than the game can pick up.
 		// This will impact performance though.
 		// default: false

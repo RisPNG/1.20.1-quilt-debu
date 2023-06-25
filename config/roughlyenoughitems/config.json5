@@ -163,7 +163,7 @@
 		// Declares whether mob effects should be on the left side instead of the right side.
 		"leftSideMobEffects": false,
 		// Declares whether subsets is enabled.
-		"isSubsetsEnabled": false,
+		"isSubsetsEnabled": true,
 		"allowInventoryHighlighting": true,
 		"itemCheatingMode": "REI_LIKE"
 	}

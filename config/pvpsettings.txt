@@ -24,7 +24,7 @@ chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
 minimapOpacity:100.0
-waypointsIngameIconScale:2
+waypointsIngameIconScale:1
 waypointsIngameDistanceScale:1
 waypointsIngameNameScale:1
 waypointsIngameCloseScale:0.12500000186264515
@@ -88,7 +88,7 @@ autoConvertWaypointDistanceToKmThreshold:-1
 waypointDistancePrecision:0
 mainDotSize:1
 partialYTeleportation:true
-deleteReachedDeathpoints:false
+deleteReachedDeathpoints:true
 hideMinimapUnderScreen:true
 hideMinimapUnderF3:true
 manualCaveModeStartAuto:true
