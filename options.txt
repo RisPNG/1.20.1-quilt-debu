@@ -135,7 +135,7 @@ key_key.mousewheelie.open_config_screen:key.mouse.middle
 key_key.mousewheelie.sort_inventory:key.mouse.middle
 key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
 key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
-key_key.mousewheelie.pick_tool:key.mouse.middle
+key_key.mousewheelie.pick_tool:key.keyboard.unknown
 key_key.mousewheelie.whole_stack_modifier:key.keyboard.left.control
 key_key.mousewheelie.all_of_kind_modifier:key.keyboard.left.shift
 key_key.mousewheelie.drop_modifier:key.keyboard.left.alt
