@@ -3,7 +3,7 @@
 	"scaling": true,
 	"min block": 3,
 	"max block": 15,
-	"min entity": 4,
+	"min entity": 3,
 	"max entity": 15,
 	"min sky": 3,
 	"max sky": 15
