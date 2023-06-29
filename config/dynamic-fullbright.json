@@ -6,5 +6,7 @@
 	"min entity": 3,
 	"max entity": 15,
 	"min sky": 3,
-	"max sky": 15
+	"max sky": 15,
+	"retain on-state": true,
+	"on-state": true
 }
