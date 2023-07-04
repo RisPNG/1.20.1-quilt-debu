@@ -42,11 +42,13 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [Borderless Mining by comp500](https://modrinth.com/mod/borderless-mining)
 * [Concurrent Chunk Management Engine (Fabric) by ishland](https://modrinth.com/mod/c2me-fabric)
 * [CameraOverhaul by Mirsario](https://modrinth.com/mod/cameraoverhaul)
+* [cAn i MiNe thIS bLOCk? by shedaniel](https://modrinth.com/mod/can-i-mine-this-block)
 * [Capes by caelthecolher](https://modrinth.com/mod/capes)
 * [Chat Heads by dzwdz](https://modrinth.com/mod/chat-heads)
 * [Chunks fade in by kerudion](https://modrinth.com/mod/chunks-fade-in)
 * [CIT Resewn by shsupercm](https://modrinth.com/mod/cit-resewn)
 * [ClearDespawn by strikerrocker](https://modrinth.com/mod/cleardespawn)
+* [Client Ping by ewpratten](https://modrinth.com/mod/client-ping)
 * [Cloth Config API by shedaniel](https://modrinth.com/mod/cloth-config)
 * [CompleteConfig by Lortseam](https://modrinth.com/mod/completeconfig)
 * [Continuity by peppercode1](https://modrinth.com/mod/continuity)
@@ -84,6 +86,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [Neat by Vazkii](https://modrinth.com/mod/neat)
 * [No Chat Reports by Aizistral](https://modrinth.com/mod/no-chat-reports)
 * [OptiGUI by opekope2](https://modrinth.com/mod/optigui)
+* [oωo (owo-lib) by glisco](https://modrinth.com/mod/owo-lib)
 * [Perspektive by r0yzer](https://modrinth.com/mod/perspektive)
 * [Presence Footsteps by Sollace](https://modrinth.com/mod/presence-footsteps)
 * [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL) by Quilt-Holdings](https://modrinth.com/mod/qsl)
@@ -107,14 +110,14 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [YetAnotherConfigLib by isxander](https://modrinth.com/mod/yacl)
 * [Zoomify by isxander](https://modrinth.com/mod/zoomify)
 
-### Resource Packs - WIP
+### Resource Packs
 * Krispy Overlay by RisPNG
 * [New Default+ by SeaOfPixels](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
 * [Overlay Textures by 4elovek20](https://www.planetminecraft.com/texture-pack/overlay-textures-1-19-1/)
 * [Rybo's Enhanced GUI by rybomups](https://www.planetminecraft.com/texture-pack/rybo-s-enhanced-gui/)
 * [Vanilla Tweaks by Xisumavoid](https://vanillatweaks.net/)
 
-### Shader Packs - WIP
+### Shader Packs
 * [BSL Shaders by CaptTatsu](https://modrinth.com/shader/bsl-shaders)
 * [MakeUp - Ultra Fast by javiergcim](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 
