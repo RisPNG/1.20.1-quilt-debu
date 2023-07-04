@@ -5,14 +5,13 @@
 </p>
 
 <h1 align="center">https://github.com/RisPNG/1.20.1-quilt-debu</h1>
+<h2 align="center">The Quilt Project: DEBU (Definitely Easy *to run* Beginner's Utility) is a personalized Minecraft: Java Edition performance profile designed for newbies. The aim of this project is to provide a fun, playable, and beginner-friendly Minecraft experience, even when playing on low-spec hardware.</h2>
 
-**Credits**
-- modrinth - a mod distribution platform: https://modrinth.com/
-- CurseForge: https://www.curseforge.com/
+## Credits
+* modrinth - a mod distribution platform: https://modrinth.com/
+* CurseForge: https://www.curseforge.com/
 
-> This repo (repository) contains Quilt mods with personalized config files, resourcepacks, and shaderpacks for Dust. However, this repo is completely free for anyone to use.
-
-> Everything included in this repo is suitable for use in multiplayer servers, although a few of them might be considered unfair depending on the server.
+> The Quilt Project: DEBU operates with a commitment to providing a safe and inclusive environment, free from any discriminatory practices or ideologies.
 
 # README Contents
 1. 🤝 [Support](#support)
@@ -26,9 +25,98 @@ If you like this project, please leave a star 🌟 and share it with your friend
 If you have any issues or you want to contribute, you are welcome! But please read the [CONTRIBUTING.md](https://github.com/RisPNG/1.20.1-quilt-debu/CONTRIBUTING.md) file.
 
 ## Features
-### Mods - WIP
+### Mods
+* [3D Skin Layers by tr7zw](https://modrinth.com/mod/3dskinlayers)
+* [Amecs by Siphalor](https://modrinth.com/mod/amecs)
+* [Animatica by FoundationGames](https://modrinth.com/mod/animatica)
+* [AntiGhost by Giselbaer](https://modrinth.com/mod/antighost)
+* [Architectury API by shedaniel](https://modrinth.com/mod/architectury-api)
+* [ARRP by Devan-kKrman](https://modrinth.com/mod/arrp)
+* [Autofish-chao by VeigarChen](https://modrinth.com/mod/autofish-chao)
+* [AutoSwitch by dexman545](https://modrinth.com/mod/autoswitch)
+* [Better Beds by motschen](https://modrinth.com/mod/better-beds)
+* [BetterF3 by treyruffy](https://modrinth.com/mod/betterf3)
+* [Better Mount HUD by Lortseam](https://modrinth.com/mod/better-mount-hud)
+* [Better PVP by thexaero](https://chocolateminecraft.com/betterpvp2.php)
+* [Bookshelf by Darkhax](https://modrinth.com/mod/bookshelf-lib)
+* [Borderless Mining by comp500](https://modrinth.com/mod/borderless-mining)
+* [Concurrent Chunk Management Engine (Fabric) by ishland](https://modrinth.com/mod/c2me-fabric)
+* [CameraOverhaul by Mirsario](https://modrinth.com/mod/cameraoverhaul)
+* [Capes by caelthecolher](https://modrinth.com/mod/capes)
+* [Chat Heads by dzwdz](https://modrinth.com/mod/chat-heads)
+* [Chunks fade in by kerudion](https://modrinth.com/mod/chunks-fade-in)
+* [CIT Resewn by shsupercm](https://modrinth.com/mod/cit-resewn)
+* [ClearDespawn by strikerrocker](https://modrinth.com/mod/cleardespawn)
+* [Cloth Config API by shedaniel](https://modrinth.com/mod/cloth-config)
+* [CompleteConfig by Lortseam](https://modrinth.com/mod/completeconfig)
+* [Continuity by peppercode1](https://modrinth.com/mod/continuity)
+* [Dynamic Crosshair by Crendgrim](https://modrinth.com/mod/dynamiccrosshair)
+* [Dynamic FPS by juliand665](https://modrinth.com/mod/dynamic-fps)
+* [Dynamic Fullbright by Provismet](https://modrinth.com/mod/dynamic-fullbright)
+* [\[EMF\] Entity Model Features by Traben](https://modrinth.com/mod/entity-model-features)
+* [\[ETF\] Entity Texture Features by Traben](https://modrinth.com/mod/entitytexturefeatures)
+* [Entity Culling by tr7zw](https://modrinth.com/mod/entityculling)
+* [FabricSkyboxes by AMereBagatelle](https://modrinth.com/mod/fabricskyboxes)
+* [Fadeless by DerpDerpling](https://modrinth.com/mod/fadeless)
+* [Fastload by StockiesLad](https://modrinth.com/mod/fastload)
+* [FabricSkyBoxes Interop by FlashyReese](https://modrinth.com/mod/fabricskyboxes-interop)
+* [ImmediatelyFast by RaphiMC](https://modrinth.com/mod/immediatelyfast)
+* [Indium by comp500](https://modrinth.com/mod/indium)
+* [Inspecio by LambdAurora](https://modrinth.com/mod/inspecio)
+* [InvMove by PieKing1215](https://modrinth.com/mod/invmove)
+* [Iris Shaders by coderbot](https://modrinth.com/mod/iris)
+* [Jade 🔍 by Snownee](https://modrinth.com/mod/jade)
+* [Krypton by astei](https://modrinth.com/mod/krypton)
+* [LambdaBetterGrass by LambdAurora](https://modrinth.com/mod/lambdabettergrass)
+* [LambDynamicLights by LambdAurora](https://modrinth.com/mod/lambdynamiclights)
+* [Language Reload by Jerozgen](https://modrinth.com/mod/language-reload)
+* [Lighty by andi-makes](https://modrinth.com/mod/lighty)
+* [Lithium by jellysquid3](https://modrinth.com/mod/lithium)
+* [Make Bubbles Pop by Tschipcraft](https://modrinth.com/mod/make_bubbles_pop)
+* [MaLiLib by masady](https://www.curseforge.com/minecraft/mc-mods/malilib)
+* [Memory Leak Fix by fxmorin](https://modrinth.com/mod/memoryleakfix)
+* [MidnightLib by Motschen](https://modrinth.com/mod/midnightlib)
+* [Mod Menu by Prospector](https://modrinth.com/mod/modmenu)
+* [MoreChatHistory by JackFred2](https://modrinth.com/mod/morechathistory)
+* [More Culling by fxmorin](https://modrinth.com/mod/moreculling)
+* [Mouse Tweaks by YaLTeR](https://modrinth.com/mod/mouse-tweaks)
+* [Mouse Wheelie by Siphalor](https://modrinth.com/mod/mouse-wheelie)
+* [Neat by Vazkii](https://modrinth.com/mod/neat)
+* [No Chat Reports by Aizistral](https://modrinth.com/mod/no-chat-reports)
+* [OptiGUI by opekope2](https://modrinth.com/mod/optigui)
+* [Perspektive by r0yzer](https://modrinth.com/mod/perspektive)
+* [Presence Footsteps by Sollace](https://modrinth.com/mod/presence-footsteps)
+* [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL) by Quilt-Holdings](https://modrinth.com/mod/qsl)
+* [Quilt Kotlin Libraries (QKL) by Quilt-Holdings](https://modrinth.com/mod/qkl)
+* [Raised by yurisuika](https://modrinth.com/mod/raised)
+* [Reese's Sodium Options by FlashyReese](https://modrinth.com/mod/reeses-sodium-options)
+* [Roughly Enough Items (REI) by shedaniel](https://modrinth.com/mod/rei)
+* [Remove Reloading Screen by dima_dencep](https://modrinth.com/mod/rrls)
+* [Smooth Swapping by Schauweg](https://modrinth.com/mod/smooth-swapping)
+* [Sodium Extra by FlashyReese](https://modrinth.com/mod/sodium-extra)
+* [Sodium by jellysquid3](https://modrinth.com/mod/sodium)
+* [Sound Physics Remastered by henkelmax](https://modrinth.com/mod/sound-physics-remastered)
+* [Stack to Nearby Chests by xiaocihua](https://modrinth.com/mod/stack-to-nearby-chests)
+* [Starlight (Fabric) by spottedleaf](https://modrinth.com/mod/starlight)
+* [T6's Auto Attack Mod by T6](https://modrinth.com/mod/t6-auto-attack)
+* [Tips by Darkhax](https://modrinth.com/mod/tips)
+* [ToolTipFix by kyrptonaught](https://modrinth.com/mod/tooltipfix)
+* [Visuality by PinkGoosik](https://modrinth.com/mod/visuality)
+* [Very Many Players (Fabric) by ishland](https://modrinth.com/mod/vmp-fabric)
+* [Wavey Capes by tr7zw](https://modrinth.com/mod/wavey-capes)
+* [YetAnotherConfigLib by isxander](https://modrinth.com/mod/yacl)
+* [Zoomify by isxander](https://modrinth.com/mod/zoomify)
+
 ### Resource Packs - WIP
+* Krispy Overlay by RisPNG
+* [New Default+ by SeaOfPixels](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
+* [Overlay Textures by 4elovek20](https://www.planetminecraft.com/texture-pack/overlay-textures-1-19-1/)
+* [Rybo's Enhanced GUI by rybomups](https://www.planetminecraft.com/texture-pack/rybo-s-enhanced-gui/)
+* [Vanilla Tweaks by Xisumavoid](https://vanillatweaks.net/)
+
 ### Shader Packs - WIP
+* [BSL Shaders by CaptTatsu](https://modrinth.com/shader/bsl-shaders)
+* [MakeUp - Ultra Fast by javiergcim](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 
 ## How to use
 #### 1. Install the latest version of [Quilt Loader](https://quiltmc.org/en/install/) for Minecraft 1.20.1.
@@ -57,4 +145,8 @@ git pull
 #### 5. Enjoy!
 
 ## Disclaimer
+This repo contains Quilt mods with personalized settings, config files, resourcepacks, and shaderpacks and is completely free for anyone to use.
+
+Everything included in this repo is suitable for use in multiplayer servers, although a few of them might be considered unfair depending on the server.
+
 This project comes with no guarantee or warranty. You are responsible for whatever happens from using this project. This is a personal project and is in no way affiliated with Mojang.
