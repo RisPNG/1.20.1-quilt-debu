@@ -34,12 +34,16 @@
     "net.minecraft.class_5375": true,
     "dev.schmarrn.lighty.ui.ModeSwitcherScreen": true,
     "dev.schmarrn.lighty.ui.SettingsScreen": true,
-    "io.github.xiaocihua.stacktonearbychests.gui.ModOptionsScreen": true
+    "io.github.xiaocihua.stacktonearbychests.gui.ModOptionsScreen": true,
+    "com.glisco.isometricrenders.screen.RenderScreen": true,
+    "interactic.InteracticConfigScreen": true,
+    "eu.ha3.presencefootsteps.PFOptionsScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_4895": true,
     "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
     "dev.schmarrn.lighty.ui.ModeSwitcherScreen": true,
-    "dev.schmarrn.lighty.ui.SettingsScreen": true
+    "dev.schmarrn.lighty.ui.SettingsScreen": true,
+    "com.glisco.isometricrenders.screen.RenderScreen": true
   }
 }

@@ -19,7 +19,7 @@
   },
   "overlay": {
     "overlayPosX": 0.010869565,
-    "overlayPosY": 0.9782609,
+    "overlayPosY": 0.8532609,
     "overlayScale": 1.0021739,
     "overlayAnchorX": 0.0,
     "overlayAnchorY": 0.0,
@@ -66,7 +66,7 @@
       }
     },
     "activeTheme": "jade:waila",
-    "iconMode": "TOP",
+    "iconMode": "CENTERED",
     "animation": true
   },
   "formatting": {
