@@ -49,6 +49,9 @@
     "mob_spawner": true,
     "redstone": true
   },
+  "cimtb": {
+    "cimtb_plugin": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,

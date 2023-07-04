@@ -42,6 +42,8 @@
   "minecraft:fluid_storage": null,
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
+  "cimtb:cimtb_plugin": null,
+  "cimtb:cimtb_plugin": null,
   "jade:object_name": null,
   "jade:registry_name": null,
   "jade:mod_name": null,
