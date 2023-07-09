@@ -162,10 +162,10 @@ infoDisplay:highlights:true:15:-1
 infoDisplay:light_overlay_indicator:true:15:-1
 infoDisplay:manual_cave_mode_indicator:true:15:-1
 infoDisplay:custom_sub_world:true:15:-1
-interface:gui.xaero_potion_status:0:-1:true:false:false:false
+interface:gui.xaero_potion_status:78:22:false:false:true:false
 interface:gui.xaero_armour_status:-7:37:true:false:false:true
 interface:gui.xaero_xp_setting:0:0:true:false:false:true
-interface:gui.xaero_notifications:0:36:true:false:false:false
+interface:gui.xaero_notifications:0:-30:true:false:false:false
 interface:gui.xaero_minimap:101:19:false:false:true:false
 interface:gui.xaero_entity_info:-234:-46:false:false:false:false
 interface:gui.xaero_item_tooltip:128:13:false:false:true:true
