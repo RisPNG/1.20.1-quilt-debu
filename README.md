@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">https://github.com/RisPNG/1.20.1-quilt-debu</h1>
-<h2 align="center">The Quilt Project: DEBU (Definitely Easy *to run* Beginner's Utility) is a personalized Minecraft: Java Edition performance profile designed for newbies. The aim of this project is to provide a fun, playable, and beginner-friendly Minecraft experience, even when playing on low-spec hardware.</h2>
+<h2 align="center">The Quilt Project: DEBU (Definitely Easy <i>to run</i> Beginner's Utility) is a personalized Minecraft: Java Edition performance profile designed for newbies. The aim of this project is to provide a fun, playable, and beginner-friendly vanilla-like Minecraft experience, even when playing on low-spec hardware.</h2>
 
 ## Credits
 * modrinth - a mod distribution platform: https://modrinth.com/
