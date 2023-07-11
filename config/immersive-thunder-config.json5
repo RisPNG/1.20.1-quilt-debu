@@ -1,0 +1,7 @@
+{
+	"thunderCloseVolume": 5000.0,
+	"thunderMediumVolume": 10000.0,
+	"thunderFarVolume": 10000.0,
+	"impactSound": true,
+	"impactSoundVolume": 2.0
+}

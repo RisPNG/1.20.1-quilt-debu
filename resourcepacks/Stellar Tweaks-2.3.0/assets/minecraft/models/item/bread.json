@@ -1,0 +1,22 @@
+{
+	"credit": "Stardust did something here",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/bread"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-1.75, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-1.75, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"head": {
+			"rotation": [0, 180, -45],
+			"translation": [-0.75, 10.5, 0.25]
+		}
+	}
+}

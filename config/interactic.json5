@@ -11,9 +11,9 @@
 	// Whether players should be able to pick up items like normal
 	"autoPickup": true,
 	// Whether Interactic should override Minecraft's default item rendering with a more fancy version. Highly recommended
-	"fancyItemRendering": true,
+	"fancyItemRendering": false,
 	// Whether Interactic should render the tooltips of items under the crosshair
-	"renderItemTooltips": false,
+	"renderItemTooltips": true,
 	// Whether Interactic should render the full tooltip of items
 	"renderFullTooltip": true,
 	// Whether your arms should swing when dropping items

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_orientable_trapdoor_opened",
+  "textures": {
+	"sides": "minecraft:block/crimson_planks",
+    "texture": "minecraft:block/crimson_trapdoor"
+  }
+}

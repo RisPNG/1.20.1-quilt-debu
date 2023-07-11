@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_door_top_right",
+  "textures": {
+    "sides": "minecraft:block/acacia_planks",
+    "bottom": "minecraft:block/acacia_door_bottom",
+    "top": "minecraft:block/acacia_door_top"
+  }
+}

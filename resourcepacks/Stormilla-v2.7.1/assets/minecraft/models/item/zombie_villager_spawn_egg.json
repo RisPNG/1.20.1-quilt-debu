@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/template_spawn_egg",
+    "textures": {
+        "0": "item/zombie_villager_spawn_egg"
+    }
+  }

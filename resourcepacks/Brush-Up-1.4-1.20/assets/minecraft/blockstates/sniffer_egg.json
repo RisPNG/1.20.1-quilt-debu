@@ -1,0 +1,31 @@
+{
+	"variants": {
+		"hatch=0": [
+			{
+				"model": "minecraft:block/sniffer_egg_not_cracked"
+			},
+			{
+				"model": "minecraft:block/sniffer_egg_not_cracked",
+				"y": 90
+			}
+		],
+		"hatch=1": [
+			{
+				"model": "minecraft:block/sniffer_egg_slightly_cracked"
+			},
+			{
+				"model": "minecraft:block/sniffer_egg_slightly_cracked",
+				"y": 90
+			}
+		],
+		"hatch=2": [
+			{
+				"model": "minecraft:block/sniffer_egg_very_cracked"
+			},
+			{
+				"model": "minecraft:block/sniffer_egg_very_cracked",
+				"y": 90
+			}
+		]
+	}
+}

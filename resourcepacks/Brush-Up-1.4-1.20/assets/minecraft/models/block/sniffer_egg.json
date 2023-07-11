@@ -1,0 +1,23 @@
+{
+	"credit": "test",
+	"texture_size": [64, 32],
+	"textures": {
+		"all": "block/sniffer_egg_not_cracked",
+		"particle": "item/sniffer_egg"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 2],
+			"to": [15, 16, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 6, 6.5, 14], "texture": "#all"},
+				"east": {"uv": [0, 6, 3, 14], "texture": "#all"},
+				"south": {"uv": [9.5, 6, 13, 14], "texture": "#all"},
+				"west": {"uv": [6.5, 6, 9.5, 14], "texture": "#all"},
+				"up": {"uv": [6.5, 6, 3, 0], "texture": "#all"},
+				"down": {"uv": [10, 0, 6.5, 6], "rotation": 180, "texture": "#all"}
+			}
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/template_fish_spawn_egg",
+    "textures": {
+        "0": "item/turtle_spawn_egg"
+    }
+  }

@@ -30,6 +30,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [Amecs by Siphalor](https://modrinth.com/mod/amecs)
 * [Animatica by FoundationGames](https://modrinth.com/mod/animatica)
 * [AntiGhost by Giselbaer](https://modrinth.com/mod/antighost)
+* [AppleSkin by squeek502](https://modrinth.com/mod/appleskin)
 * [Architectury API by shedaniel](https://modrinth.com/mod/architectury-api)
 * [ARRP by Devan-kKrman](https://modrinth.com/mod/arrp)
 * [Autofish-chao by VeigarChen](https://modrinth.com/mod/autofish-chao)
@@ -62,13 +63,13 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [Dynamic Fullbright by Provismet](https://modrinth.com/mod/dynamic-fullbright)
 * [\[EMF\] Entity Model Features by Traben](https://modrinth.com/mod/entity-model-features)
 * [\[ETF\] Entity Texture Features by Traben](https://modrinth.com/mod/entitytexturefeatures)
-* [Entity Culling by tr7zw](https://modrinth.com/mod/entityculling)
+* [Entity Culling by tr7zw](https://modrinth.com/mod/entityculling)\
+* [ExtraSounds by stashymane](https://modrinth.com/mod/extrasounds)
 * [FabricSkyboxes by AMereBagatelle](https://modrinth.com/mod/fabricskyboxes)
-* [Fadeless by DerpDerpling](https://modrinth.com/mod/fadeless)
-* [Fastload by StockiesLad](https://modrinth.com/mod/fastload)
 * [FabricSkyBoxes Interop by FlashyReese](https://modrinth.com/mod/fabricskyboxes-interop)
 * [Idwtialsimmoedm by glisco](https://modrinth.com/mod/idwtialsimmoedm)
 * [ImmediatelyFast by RaphiMC](https://modrinth.com/mod/immediatelyfast)
+* [ImmersiveThunder by LeahPy](https://modrinth.com/mod/immersivethunder)
 * [Indium by comp500](https://modrinth.com/mod/indium)
 * [Inspecio by LambdAurora](https://modrinth.com/mod/inspecio)
 * [Interactic by glisco](https://modrinth.com/mod/interactic)
@@ -93,6 +94,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [Mouse Wheelie by Siphalor](https://modrinth.com/mod/mouse-wheelie)
 * [Neat by Vazkii](https://modrinth.com/mod/neat)
 * [No Chat Reports by Aizistral](https://modrinth.com/mod/no-chat-reports)
+* [NotifMod by 811Alex](https://modrinth.com/mod/notifmod)
 * [OptiGUI by opekope2](https://modrinth.com/mod/optigui)
 * [oωo (owo-lib) by glisco](https://modrinth.com/mod/owo-lib)
 * [Perspektive by r0yzer](https://modrinth.com/mod/perspektive)
@@ -102,7 +104,6 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [Raised by yurisuika](https://modrinth.com/mod/raised)
 * [Reese's Sodium Options by FlashyReese](https://modrinth.com/mod/reeses-sodium-options)
 * [Roughly Enough Items (REI) by shedaniel](https://modrinth.com/mod/rei)
-* [Remove Reloading Screen by dima_dencep](https://modrinth.com/mod/rrls)
 * [Smooth Swapping by Schauweg](https://modrinth.com/mod/smooth-swapping)
 * [Sodium Extra by FlashyReese](https://modrinth.com/mod/sodium-extra)
 * [Sodium by jellysquid3](https://modrinth.com/mod/sodium)
@@ -130,7 +131,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [MakeUp - Ultra Fast by javiergcim](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 
 ## How to use
-#### 1. Install the latest version of [Quilt Loader](https://quiltmc.org/en/install/) for Minecraft 1.20.1.
+#### 1. Install the latest version of [Quilt Loader >= 0.19.2](https://quiltmc.org/en/install/) for Minecraft 1.20.1.
 #### 2. Clone the repo.
 * Install [git](https://git-scm.com/downloads) for your system.
 * Open the terminal and execute the following command:

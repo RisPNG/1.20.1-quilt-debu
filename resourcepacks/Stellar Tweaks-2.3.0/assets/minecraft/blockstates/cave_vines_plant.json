@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "berries=false": [
+      {"model": "minecraft:block/cave_vines_plant"},
+      {"model": "minecraft:block/cave_vines/cave_vines_plant_2"},
+      {"model": "minecraft:block/cave_vines/cave_vines_plant_3"},
+      {"model": "minecraft:block/cave_vines/cave_vines_plant_4"},
+      {"model": "minecraft:block/cave_vines/cave_vines_plant_5"},
+      {"model": "minecraft:block/cave_vines/cave_vines_plant_6"}
+    ],
+    "berries=true": [
+      {"model": "minecraft:block/cave_vines_plant_lit"},
+      {"model": "minecraft:block/cave_vines/cave_vines_plant_lit_2"},
+      {"model": "minecraft:block/cave_vines/cave_vines_plant_lit_3"},
+      {"model": "minecraft:block/cave_vines/cave_vines_plant_lit_4"},
+      {"model": "minecraft:block/cave_vines/cave_vines_plant_lit_5"},
+      {"model": "minecraft:block/cave_vines/cave_vines_plant_lit_6"}
+    ]
+  }
+}

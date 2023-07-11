@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/template_pointy_ears_spawn_egg",
+    "textures": {
+        "0": "item/wolf_spawn_egg"
+    }
+  }

@@ -1,0 +1,101 @@
+{
+	"credit": "Made by StormDragon77",
+	"parent": "item/display",
+	"textures": {
+		"0": "item/witch_spawn_egg"
+	},
+	"elements": [
+		{
+			"name": "center",
+			"from": [4, 2, 8],
+			"to": [12, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 10, 16]},
+			"faces": {
+				"north": {"uv": [12, 3, 4, 14], "texture": "#0"},
+				"east": {"uv": [11, 3, 12, 14], "texture": "#0"},
+				"south": {"uv": [4, 3, 12, 14], "texture": "#0"},
+				"west": {"uv": [4, 3, 5, 14], "texture": "#0"},
+				"up": {"uv": [4, 3, 12, 4], "texture": "#0"},
+				"down": {"uv": [4, 13, 12, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "center1",
+			"from": [3, 3, 8],
+			"to": [13, 10, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [20, 11, 16]},
+			"faces": {
+				"north": {"uv": [13, 6, 3, 13], "texture": "#0"},
+				"east": {"uv": [12, 6, 13, 13], "texture": "#0"},
+				"south": {"uv": [3, 6, 13, 13], "texture": "#0"},
+				"west": {"uv": [3, 6, 4, 13], "texture": "#0"},
+				"down": {"uv": [3, 12, 13, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "center2",
+			"from": [2, 5, 8],
+			"to": [14, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [21, 13, 16]},
+			"faces": {
+				"north": {"uv": [14, 8, 2, 11], "texture": "#0"},
+				"east": {"uv": [13, 8, 14, 11], "texture": "#0"},
+				"south": {"uv": [2, 8, 14, 11], "texture": "#0"},
+				"west": {"uv": [2, 8, 3, 11], "texture": "#0"},
+				"up": {"uv": [2, 8, 14, 9], "texture": "#0"},
+				"down": {"uv": [2, 10, 14, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "rim",
+			"from": [2, 10, 8],
+			"to": [14, 11, 9],
+			"faces": {
+				"north": {"uv": [14, 5, 2, 6], "texture": "#0"},
+				"east": {"uv": [13, 5, 14, 6], "texture": "#0"},
+				"south": {"uv": [2, 5, 14, 6], "texture": "#0"},
+				"west": {"uv": [2, 5, 3, 6], "texture": "#0"},
+				"up": {"uv": [2, 5, 14, 6], "texture": "#0"},
+				"down": {"uv": [2, 5, 14, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "hat",
+			"from": [5, 13, 8],
+			"to": [11, 14, 9],
+			"faces": {
+				"north": {"uv": [11, 2, 5, 3], "texture": "#0"},
+				"east": {"uv": [10, 2, 11, 3], "texture": "#0"},
+				"south": {"uv": [5, 2, 11, 3], "texture": "#0"},
+				"west": {"uv": [5, 2, 6, 3], "texture": "#0"},
+				"up": {"uv": [5, 2, 11, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "hat1",
+			"from": [6, 1, 8],
+			"to": [10, 15, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 9, 16]},
+			"faces": {
+				"north": {"uv": [10, 1, 6, 15], "texture": "#0"},
+				"east": {"uv": [9, 1, 10, 15], "texture": "#0"},
+				"south": {"uv": [6, 1, 10, 15], "texture": "#0"},
+				"west": {"uv": [6, 1, 7, 15], "texture": "#0"},
+				"up": {"uv": [6, 1, 10, 2], "texture": "#0"},
+				"down": {"uv": [6, 14, 10, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "hat2",
+			"from": [7, 15, 8],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [9, 0, 7, 1], "texture": "#0"},
+				"east": {"uv": [8, 0, 9, 1], "texture": "#0"},
+				"south": {"uv": [7, 0, 9, 1], "texture": "#0"},
+				"west": {"uv": [7, 0, 8, 1], "texture": "#0"},
+				"up": {"uv": [7, 0, 9, 1], "texture": "#0"}
+			}
+		}
+	]
+}

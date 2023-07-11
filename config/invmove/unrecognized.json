@@ -37,7 +37,8 @@
     "io.github.xiaocihua.stacktonearbychests.gui.ModOptionsScreen": true,
     "com.glisco.isometricrenders.screen.RenderScreen": true,
     "interactic.InteracticConfigScreen": true,
-    "eu.ha3.presencefootsteps.PFOptionsScreen": true
+    "eu.ha3.presencefootsteps.PFOptionsScreen": true,
+    "net.minecraft.class_434": true
   },
   "hideBackground": {
     "net.minecraft.class_4895": true,

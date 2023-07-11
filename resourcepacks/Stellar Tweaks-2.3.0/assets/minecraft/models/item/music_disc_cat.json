@@ -1,0 +1,28 @@
+{
+	"credit": "Stardust did something here",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"1": "item/music_disc_cat",
+		"particle": "item/music_disc_cat",
+		"layer0": "item/music_disc_cat"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.25, 2.75, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.25, 2.75, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"gui": {
+			"translation": [0.5, 0, 0]
+		},
+		"head": {
+			"translation": [0.5, 11.25, 0]
+		},
+		"fixed": {
+			"translation": [0.5, 0, 0]
+		}
+	}
+}

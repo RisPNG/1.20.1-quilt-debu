@@ -1,0 +1,24 @@
+Stormilla (Java Edition) Credits:
+
+-----------------------------------------------------------
+
+Creator:
+StormDragon77 | https://www.linktr.ee/stormdragon77
+
+-----------------------------------------------------------
+
+Texture Artists and Modelers:
+StormDragon77 | https://www.linktr.ee/stormdragon77
+Napstatoast | https://www.planetminecraft.com/member/napstatoast/
+	Contributions are listed in napsta_contributions.txt since it is very long
+
+-----------------------------------------------------------
+
+Other Contributions:
+Vanilla Tweaks | https://vanillatweaks.net/
+	Proper Break Particles (modified)
+	Corrected Item Holding (modified)
+TrailerOctopus | https://www.planetminecraft.com/member/traileroctopus/
+	Emissive Textures
+	Leather Overalls (modified)
+	XP Bottle (modified)

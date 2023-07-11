@@ -1,6 +1,6 @@
 {
   "volume": 5,
-  "clientPlayerVolume": 100,
+  "clientPlayerVolume": 50,
   "otherPlayerVolume": 20,
   "runningVolumeIncrease": 0,
   "wetSoundsVolume": 50,

@@ -1,0 +1,27 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"3": "block/enchanting_table_side1",
+		"4": "block/enchanting_table_side2",
+		"5": "block/enchanting_table_side3",
+		"6": "block/enchanting_table_side4",
+		"particle": "block/enchanting_table_bottom",
+		"bottom": "block/enchanting_table_bottom",
+		"top": "block/enchanting_table_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 12, 16],
+			"faces": {
+				"north": {"uv": [0, 4, 16, 16], "texture": "#3", "cullface": "north"},
+				"east": {"uv": [0, 4, 16, 16], "texture": "#6", "cullface": "east"},
+				"south": {"uv": [0, 4, 16, 16], "texture": "#5", "cullface": "south"},
+				"west": {"uv": [0, 4, 16, 16], "texture": "#4", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	],
+	"display": {}
+}
