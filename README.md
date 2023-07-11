@@ -121,10 +121,13 @@ If you have any issues or you want to contribute, you are welcome! But please re
 
 ### Resource Packs
 * Krispy Overlay by RisPNG
-* [New Default+ by SeaOfPixels](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
-* [Overlay Textures by 4elovek20](https://www.planetminecraft.com/texture-pack/overlay-textures-1-19-1/)
 * [Rybo's Enhanced GUI by rybomups](https://www.planetminecraft.com/texture-pack/rybo-s-enhanced-gui/)
+* [Overlay Textures by 4elovek20](https://www.planetminecraft.com/texture-pack/overlay-textures-1-19-1/)
 * [Vanilla Tweaks by Xisumavoid](https://vanillatweaks.net/)
+* [Modified Stormilla by StormDragon77](https://modrinth.com/resourcepack/stormilla)
+* [Modified Stellar Tweaks by StardustSys](https://modrinth.com/resourcepack/stellar-tweaks)
+* [Modified Brush-Up! by I_am_Merp](https://modrinth.com/resourcepack/brush-up)
+* [Modified New Default+ by SeaOfPixels](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
 
 ### Shader Packs
 * [BSL Shaders by CaptTatsu](https://modrinth.com/shader/bsl-shaders)
