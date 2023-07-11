@@ -1,5 +1,5 @@
 version:3465
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","high_contrast","programmer_art","vanilla","file/Krispy Overlay.zip","lambdabettergrass/default","file/overlaytextures-1-19-full.zip","betterbeds/connectedbeds","betterbeds/fancybeds","betterbeds/fancyconnectedbeds","file/RybosEnhancedGUI.zip","file/Brush-Up-1.4-1.20.zip","file/VanillaTweaks_r440433.zip","file/NewDefault+v1.67[MC1.20-1.20.1]","file/Stellar Tweaks-2.3.0","file/Stormilla-v2.7.1"]
+quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","high_contrast","programmer_art","vanilla","file/Krispy Overlay.zip","lambdabettergrass/default","file/overlaytextures-1-19-full.zip","betterbeds/connectedbeds","betterbeds/fancybeds","betterbeds/fancyconnectedbeds","file/RybosEnhancedGUI.zip","file/NewDefault+v1.67[MC1.20-1.20.1]","file/Stellar Tweaks-2.3.0","file/Stormilla-v2.7.1","file/Brush-Up-1.4-1.20","file/VanillaTweaks_r224800.zip"]
 autoJump:false
 operatorItemsTab:true
 autoSuggestions:true
