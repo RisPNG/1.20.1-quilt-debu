@@ -56,8 +56,8 @@ alwaysShowDistance:false
 renderLayerIndex:1
 crossDimensionalTp:true
 biomeColorsVanillaMode:false
-lookingAtAngle:180
-lookingAtAngleVertical:180
+lookingAtAngle:50
+lookingAtAngleVertical:50
 centeredEnlarged:true
 zoomOnEnlarged:1
 minimapTextAlign:2

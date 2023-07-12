@@ -120,6 +120,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [Zoomify by isxander](https://modrinth.com/mod/zoomify)
 
 ### Resource Packs
+* [mojangless by Iskatel-chegoto](https://modrinth.com/resourcepack/mojangless)
 * Krispy Overlay by RisPNG
 * [Rybo's Enhanced GUI by rybomups](https://www.planetminecraft.com/texture-pack/rybo-s-enhanced-gui/)
 * [Overlay Textures by 4elovek20](https://www.planetminecraft.com/texture-pack/overlay-textures-1-19-1/)

@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"false"
-resourcePacks:["vanilla","file/NewDefault+v1.67[MC1.20-1.20.1]","file/Brush-Up-1.4-1.20","file/Stellar Tweaks-2.3.0","file/Stormilla-v2.7.1","file/VanillaTweaks_r224800.zip","file/overlaytextures-1-19-full.zip","file/RybosEnhancedGUI.zip","file/Krispy Overlay.zip","lambdabettergrass/default","continuity/glass_pane_culling_fix","continuity/default","betterbeds/fancyconnectedbeds"]
-incompatibleResourcePacks:["file/RybosEnhancedGUI.zip"]
+resourcePacks:["vanilla","file/NewDefault+v1.67[MC1.20-1.20.1]","file/Brush-Up-1.4-1.20","file/Stellar Tweaks-2.3.0","file/Stormilla-v2.7.1","file/VanillaTweaks_r224800.zip","file/overlaytextures-1-19-full.zip","file/RybosEnhancedGUI.zip","file/Krispy Overlay.zip","file/enchant icons 1.20 v1.3.zip","file/mojangless-0.2.0-alpha.zip","lambdabettergrass/default","continuity/glass_pane_culling_fix","continuity/default","betterbeds/fancyconnectedbeds"]
+incompatibleResourcePacks:["file/RybosEnhancedGUI.zip","file/mojangless-0.2.0-alpha.zip"]
 lastServer:singapore-25.enviromc.net:25610
 lang:en_us
 soundDevice:""
