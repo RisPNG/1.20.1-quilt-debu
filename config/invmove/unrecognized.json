@@ -38,7 +38,9 @@
     "com.glisco.isometricrenders.screen.RenderScreen": true,
     "interactic.InteracticConfigScreen": true,
     "eu.ha3.presencefootsteps.PFOptionsScreen": true,
-    "net.minecraft.class_434": true
+    "net.minecraft.class_434": true,
+    "io.wispforest.owo.config.ui.ConfigScreen": true,
+    "com.glisco.deathlog.client.gui.DeathLogScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_4895": true,

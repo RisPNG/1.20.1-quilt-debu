@@ -1,9 +1,9 @@
 {
-	"separate entity lighting": false,
+	"separate entity lighting": true,
 	"scaling": true,
 	"min block": 3,
 	"max block": 15,
-	"min entity": 3,
+	"min entity": 5,
 	"max entity": 15,
 	"min sky": 3,
 	"max sky": 15,

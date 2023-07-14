@@ -24,7 +24,7 @@
     "sky_colors": true
   },
   "render_settings": {
-    "fog_distance": 4,
+    "fog_distance": 0,
     "fog_start": 20,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
