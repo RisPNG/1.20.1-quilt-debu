@@ -1,6 +1,7 @@
 <style>
 a:link {
   text-decoration: none;
+  color: blue;
 }
 </style>
 
