@@ -128,7 +128,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [Enchant Icons by CountXD](https://modrinth.com/resourcepack/enchant-icons-countxd)
 * [Chat Reporting Helper by robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper)
 * [Balanced Music by clearKeep](https://modrinth.com/resourcepack/balanced-music)
-* [Rybo's Enhanced GUI by rybomups](https://www.planetminecraft.com/texture-pack/rybo-s-enhanced-gui/)
+* [Rybo's Enhanced GUI \[Dark\]by rybomups](https://www.planetminecraft.com/texture-pack/rybo-s-enhanced-gui/)
 * Krispy Overlay by RisPNG
 * [Visual Leaf Decay by 6_28318530717958](https://modrinth.com/resourcepack/visual-leaf-decay)
 * [Os' Colorful Cobblestone by Oslypsis](https://modrinth.com/resourcepack/os-colorful-cobblestone)
