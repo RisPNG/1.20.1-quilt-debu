@@ -1,0 +1,12 @@
+{
+    "tooltip.bees": "§6ミツバチ %d 匹",
+    "tooltip.unnamed": "§7- ななしのはち",
+    "tooltip.honey": "§6 はちみつ %s",
+    "tooltip.name": "§e- %s",
+    "beenfo.config.showpopup": "クロスヘア上にポップアップを表示",
+    "beenfo.config.popupxpercent": "ポップアップの位置調整: 左右",
+    "beenfo.config.popupypercent": "ポップアップの位置調整: 上下",
+    "beenfo.config.tt.showpopup": "巣箱や巣を見ているときにポップアップを表示",
+    "beenfo.config.tt.popupxpercent": "画面上のポップアップ位置を調整: 左右",
+    "beenfo.config.tt.popupypercent": "画面上のポップアップ位置を調整: 上下"
+}
