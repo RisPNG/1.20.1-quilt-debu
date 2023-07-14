@@ -1,3 +1,9 @@
+<style>
+a:link {
+  text-decoration: none;
+}
+</style>
+
 ![1.20.1 Quilt - Debu](https://quiltmc.org/assets/img/banner.svg)
 <p align="center">
 <a href="https://github.com/RisPNG/1.20.1-quilt-debu/stargazers"><img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/RisPNG/1.20.1-quilt-debu?style=flat&color=limegreen"></a>
