@@ -1,5 +1,6 @@
 .cache
 config/**/litematica*
+config/stack-to-nearby-chests/**/locked-slots*
 crash-reports
 essential
 logs
