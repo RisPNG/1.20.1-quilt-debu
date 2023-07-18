@@ -40,7 +40,8 @@
     "eu.ha3.presencefootsteps.PFOptionsScreen": true,
     "net.minecraft.class_434": true,
     "io.wispforest.owo.config.ui.ConfigScreen": true,
-    "com.glisco.deathlog.client.gui.DeathLogScreen": true
+    "com.glisco.deathlog.client.gui.DeathLogScreen": true,
+    "net.minecraft.class_407": true
   },
   "hideBackground": {
     "net.minecraft.class_4895": true,

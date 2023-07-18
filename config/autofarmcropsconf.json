@@ -1,0 +1,12 @@
+{
+	"plantOnWalkOver":true,
+	"plantDespiteAge":true,
+	"autoBoneMeal":true,
+	"plantMultiple":false,
+	"autoFarmLand":true,
+	"switchBackToSlot":true,
+	"farmLandMultiple":false,
+	"boneMealMultiple":false,
+	"autoplantcrops":true,
+	"boneMealDelay":100
+}
