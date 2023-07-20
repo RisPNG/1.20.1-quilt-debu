@@ -26,7 +26,6 @@ If you have any issues or you want to contribute, you are welcome! But please re
 
 ## Features
 ### Mods
-* [3D Skin Layers by tr7zw](https://modrinth.com/mod/3dskinlayers)
 * [Amecs by Siphalor](https://modrinth.com/mod/amecs)
 * [Animatica by FoundationGames](https://modrinth.com/mod/animatica)
 * [AntiGhost by Giselbaer](https://modrinth.com/mod/antighost)
