@@ -9,8 +9,8 @@ useItemFrameLOD = true
 itemFrameLODRange = 48
 useItemFrame3FaceCulling = true
 itemFrame3FaceCullingRange = 0.0
-leavesCullingMode = "CHECK"
-leavesCullingAmount = 2
+leavesCullingMode = "DEPTH"
+leavesCullingAmount = 1
 includeMangroveRoots = true
 powderSnowCulling = true
 entityModelCulling = true
@@ -18,3 +18,4 @@ useOnModdedBlocksByDefault = true
 
 [modCompatibility]
 minecraft = true
+visualoverhaul = true

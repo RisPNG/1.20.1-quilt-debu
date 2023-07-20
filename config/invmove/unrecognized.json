@@ -41,7 +41,8 @@
     "net.minecraft.class_434": true,
     "io.wispforest.owo.config.ui.ConfigScreen": true,
     "com.glisco.deathlog.client.gui.DeathLogScreen": true,
-    "net.minecraft.class_407": true
+    "net.minecraft.class_407": true,
+    "org.anti_ad.mc.ipnext.gui.ConfigScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_4895": true,
