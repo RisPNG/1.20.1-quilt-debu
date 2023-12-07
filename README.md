@@ -40,14 +40,13 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [Better Mount HUD by Lortseam](https://modrinth.com/mod/better-mount-hud)
 * [Better PVP by thexaero](https://chocolateminecraft.com/betterpvp2.php)
 * [Bookshelf by Darkhax](https://modrinth.com/mod/bookshelf-lib)
-* [Borderless Mining by comp500](https://modrinth.com/mod/borderless-mining)
 * [Better Recipe Book by marshmallow](https://modrinth.com/mod/brb)
 * [Concurrent Chunk Management Engine by ishland](https://modrinth.com/mod/c2me-fabric)
 * [CameraOverhaul by Mirsario](https://modrinth.com/mod/cameraoverhaul)
 * [cAn i MiNe thIS bLOCk? by shedaniel](https://modrinth.com/mod/can-i-mine-this-block)
 * [Capes by caelthecolher](https://modrinth.com/mod/capes)
 * [Chat Heads by dzwdz](https://modrinth.com/mod/chat-heads)
-* [Chunks fade in by kerudion](https://modrinth.com/mod/chunks-fade-in)
+* [Chime by Emi](https://modrinth.com/mod/chime)
 * [CIT Resewn by shsupercm](https://modrinth.com/mod/cit-resewn)
 * [ClearDespawn by strikerrocker](https://modrinth.com/mod/cleardespawn)
 * [Client Ping by ewpratten](https://modrinth.com/mod/client-ping)
@@ -55,6 +54,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [CompleteConfig by Lortseam](https://modrinth.com/mod/completeconfig)
 * [Continuity by peppercode1](https://modrinth.com/mod/continuity)
 * [DeathLog by glisco](https://modrinth.com/mod/deathlog)
+* [Detail Armor Bar by RedLime](https://modrinth.com/mod/detail-armor-bar)
 * [DisguiseHeads by tr7zw](https://modrinth.com/mod/disguiseheads)
 * [Drip Sounds by PieKing1215](https://modrinth.com/mod/dripsounds-fabric)
 * [Dynamic Crosshair by Crendgrim](https://modrinth.com/mod/dynamiccrosshair)
@@ -66,6 +66,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [Entity Culling by tr7zw](https://modrinth.com/mod/entityculling)\
 * [ExtraSounds by stashymane](https://modrinth.com/mod/extrasounds)
 * [FabricSkyboxes by AMereBagatelle](https://modrinth.com/mod/fabricskyboxes)
+* [FerriteCore by malte0811](https://modrinth.com/mod/ferrite-core)
 * [FabricSkyBoxes Interop by FlashyReese](https://modrinth.com/mod/fabricskyboxes-interop)
 * [Harvest by n643064](https://modrinth.com/mod/harvest)
 * [Idwtialsimmoedm by glisco](https://modrinth.com/mod/idwtialsimmoedm)
@@ -148,7 +149,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [MakeUp - Ultra Fast by javiergcim](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 
 ## How to use
-#### 1. Install the latest version of [Quilt Loader >= 0.19.2](https://quiltmc.org/en/install/) for Minecraft 1.20.1.
+#### 1. Install the latest version of [Quilt Loader >= 0.22.1](https://quiltmc.org/en/install/) for Minecraft 1.20.1.
 #### 2. Clone the repo.
 * Install [git](https://git-scm.com/downloads) for your system.
 * Open the terminal and execute the following command:

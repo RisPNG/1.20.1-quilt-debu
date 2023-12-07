@@ -42,7 +42,10 @@
     "io.wispforest.owo.config.ui.ConfigScreen": true,
     "com.glisco.deathlog.client.gui.DeathLogScreen": true,
     "net.minecraft.class_407": true,
-    "org.anti_ad.mc.ipnext.gui.ConfigScreen": true
+    "org.anti_ad.mc.ipnext.gui.ConfigScreen": true,
+    "com.koteinik.chunksfadein.gui.SettingsScreen": true,
+    "io.github.ultimateboomer.resolutioncontrol.client.gui.screen.MainSettingsScreen": true,
+    "io.github.ultimateboomer.resolutioncontrol.client.gui.screen.ScreenshotSettingsScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_4895": true,

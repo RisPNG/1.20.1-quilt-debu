@@ -2,7 +2,8 @@
 data
 debug
 config/**/litematica*
-config/stack-to-nearby-chests/**/locked-slots*
+config/inventoryprofilesnext/*/
+config/stack-to-nearby-chests/*/locked-slots*
 crash-reports
 essential
 logs
@@ -14,6 +15,7 @@ schematics
 screenshots
 XaeroWaypoints*/
 deaths.dat
+irisUpdateInfo.json
 realms_persistence.json
 servers.*
 usercache.json
