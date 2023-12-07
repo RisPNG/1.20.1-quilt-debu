@@ -2,8 +2,8 @@
 data
 debug
 config/**/litematica*
-config/inventoryprofilesnext/*/
-config/stack-to-nearby-chests/*/locked-slots*
+config/inventoryprofilesnext/**/
+config/stack-to-nearby-chests/**/locked-slots*
 crash-reports
 essential
 logs
