@@ -65,6 +65,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [\[ETF\] Entity Texture Features by Traben](https://modrinth.com/mod/entitytexturefeatures)
 * [Entity Culling by tr7zw](https://modrinth.com/mod/entityculling)\
 * [ExtraSounds by stashymane](https://modrinth.com/mod/extrasounds)
+* [Exordium by tr7zw](https://modrinth.com/mod/exordium)
 * [FabricSkyboxes by AMereBagatelle](https://modrinth.com/mod/fabricskyboxes)
 * [FerriteCore by malte0811](https://modrinth.com/mod/ferrite-core)
 * [FabricSkyBoxes Interop by FlashyReese](https://modrinth.com/mod/fabricskyboxes-interop)
