@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/buttons/button_pressed_template",
-  "textures": {
-    "texture": "minecraft:block/buttons/dark_oak_button"
-  }
-}

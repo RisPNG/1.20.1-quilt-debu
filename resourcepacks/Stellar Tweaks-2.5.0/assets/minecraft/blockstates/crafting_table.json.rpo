@@ -1,4 +1,0 @@
-{
-    condition: "stellar_tweaks.blocks.variated_crafting_table.stellar",
-    fallback: "assets/minecraft/blockstates/classic_crafting_table.json"
-}

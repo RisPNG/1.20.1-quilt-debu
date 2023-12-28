@@ -1,6 +1,0 @@
-{
-  "overrides": [
-    {"predicate": {"nbt": {"dnl": {"name": "heavy_iron_armor","armor": 3}}},"texture": "dnl:textures/models/armor/golem_heart_layer_2"},
-    {"predicate": {"nbt": {"dnl": {"name": "heavy_iron_armor","armor": 4}}},"texture": "dnl:textures/models/armor/golem_heart_layer_2"}
-  ]
-}

@@ -1,4 +1,0 @@
-{
-    condition: "stellar_tweaks.misc.new_icons.vanilla_hunger",
-    fallback: "assets/minecraft/textures/mob_effect/saturation_seg_xp.png"
-}

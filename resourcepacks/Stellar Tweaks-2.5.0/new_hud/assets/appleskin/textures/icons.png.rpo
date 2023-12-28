@@ -1,4 +1,0 @@
-{
-    "conditions": "stellar_tweaks.gui.new_new_hunger_bar.carrots",
-    "fallback": "assets/appleskin/textures/icons_vanilla_hunger.png"
-}

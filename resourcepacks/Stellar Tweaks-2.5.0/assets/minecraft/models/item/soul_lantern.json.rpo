@@ -1,4 +1,0 @@
-{
-    condition: "stellar_tweaks.items.handheld_lanterns.world_model",
-    fallback: "assets/minecraft/models/item/soul_lantern_vanilla.json"
-}

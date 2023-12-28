@@ -1,4 +1,0 @@
-{
-    condition: "stellar_tweaks.items.square_melons",
-    fallback: "assets/minecraft/textures/item/melon_slice_particle_round.png"
-}

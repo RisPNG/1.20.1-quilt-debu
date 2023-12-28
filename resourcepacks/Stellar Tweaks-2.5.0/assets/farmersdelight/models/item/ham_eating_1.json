@@ -1,6 +1,0 @@
-{
-  "parent": "farmersdelight:item/ham",
-  "textures": {
-    "layer0": "farmersdelight:item/ham_eating_1"
-  }
-}

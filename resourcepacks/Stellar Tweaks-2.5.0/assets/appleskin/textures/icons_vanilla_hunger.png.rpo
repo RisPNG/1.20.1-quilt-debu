@@ -1,4 +1,0 @@
-{
-    "conditions": "stellar_tweaks.gui.new_icons.vanilla_hunger",
-    "fallback": "assets/appleskin/textures/icons_seg_xp.png"
-}

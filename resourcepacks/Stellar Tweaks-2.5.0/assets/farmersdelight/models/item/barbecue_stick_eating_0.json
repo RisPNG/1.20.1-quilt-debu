@@ -1,6 +1,0 @@
-{
-  "parent": "farmersdelight:item/barbecue_stick",
-  "textures": {
-    "layer0": "farmersdelight:item/barbecue_stick_eating_0"
-  }
-}

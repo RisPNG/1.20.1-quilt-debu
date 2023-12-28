@@ -1,4 +1,0 @@
-{
-    condition: "stellar_tweaks.gui.new_crosshair_attack_indicator.vanilla",
-    fallback: "assets/minecraft/textures/gui_mods/sprites/hud/crosshair_attack_indicator_full_bar.png"
-}

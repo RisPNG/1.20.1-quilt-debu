@@ -1,4 +1,0 @@
-{
-    condition: "stellar_tweaks.misc.new_icons.carrot",
-    fallback: "assets/minecraft/textures/mob_effect/saturation_vanilla_hunger.png"
-}

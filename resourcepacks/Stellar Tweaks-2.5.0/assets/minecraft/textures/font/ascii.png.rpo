@@ -1,4 +1,0 @@
-{
-    condition: "stellar_tweaks.gui.new_font.vanilla",
-    fallback: "assets/minecraft/textures/font/stellar_ascii.png"
-}

@@ -1,4 +1,0 @@
-{
-    condition: "stellar_tweaks.blocks.new_bedrock",
-    fallback: "assets/minecraft/textures/entity/end_crystal/end_crystal_vanilla_bedrock.png"
-}

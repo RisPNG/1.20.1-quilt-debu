@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/iron_helmet"
-  },
-  "overrides": [
-    {"predicate": {"nbt": {"dnl": {"name": "heavy_iron_armor","armor": 1}}},"model": "dnl:item/golem_heart_helmet"}
-  ]
-}
