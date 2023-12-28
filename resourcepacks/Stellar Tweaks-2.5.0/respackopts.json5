@@ -46,7 +46,7 @@
                 "classic",
                 "off"
             ],
-            new_fences: true,
+            new_fences: false,
             new_pressure_plates: true,
             new_buttons: true,
             new_spruce_log: true,
@@ -57,17 +57,17 @@
             variated_fauna: true,
         // Misc
                 divider_misc: ["divider"],
-            new_torches: true,
+            new_torches: false,
             new_lever: true,
-            new_dragon_egg: true,
+            new_dragon_egg: false,
             new_enchanting_table: true,
-            new_bedrock: true,
+            new_bedrock: false,
             dirt_snow_overlay: true
             },
 
         entity: {
                 divider_models: ["divider"],
-            new_cow: true,
+            new_cow: false,
             new_chicken: true,
             new_silverfish: true,
                 divider_textures: ["divider"],
