@@ -1,0 +1,44 @@
+{
+	"credit": "Stardust did something here",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/la_baguette"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 55],
+			"translation": [0, 11.25, 3],
+			"scale": [1.4, 1.4, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -55],
+			"translation": [0, 11.25, 3],
+			"scale": [1.4, 1.4, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 4.2, 1.13],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -25],
+			"translation": [1.13, 4.2, 1.13],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"ground": {
+			"translation": [0, 5.75, 0]
+		},
+		"gui": {
+			"translation": [0, 0.25, 0]
+		},
+		"head": {
+			"rotation": [90, 0, -135],
+			"translation": [0, 6.75, -1],
+			"scale": [1.6, 1.6, 0.85]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.5],
+			"scale": [4, 4, 0.85]
+		}
+	}
+}

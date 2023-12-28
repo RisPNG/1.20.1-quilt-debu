@@ -1,0 +1,4 @@
+{
+    condition: "stellar_tweaks.gui.new_crosshair.corners",
+    fallback: "assets/minecraft/textures/gui_mods/sprites/hud/crosshair_doors_and_corners_kid.png"
+}

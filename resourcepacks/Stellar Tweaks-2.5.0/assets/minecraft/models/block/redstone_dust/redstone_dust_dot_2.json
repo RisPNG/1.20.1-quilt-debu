@@ -1,0 +1,9 @@
+{
+	"credit": "The Stardust System did something here",
+    "parent": "block/redstone_dust_dot",
+	"textures": {
+		"particle": "block/redstone_dust/redstone_dust_dot_2",
+		"line": "block/redstone_dust/redstone_dust_dot_2",
+		"overlay": "block/redstone_dust_overlay"
+	}
+}

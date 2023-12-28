@@ -1,0 +1,4 @@
+{
+    condition: "stellar_tweaks.blocks.variated_crafting_table.classic",
+    fallback: "assets/minecraft/models/spoof"
+}

@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "snowy=false": [
+      {"model": "minecraft:block/mycelium/mycelium"},
+      {"model": "minecraft:block/mycelium/mycelium",   "y": 90},
+      {"model": "minecraft:block/mycelium/mycelium",   "y": 180},
+      {"model": "minecraft:block/mycelium/mycelium",   "y": 270},
+      {"model": "minecraft:block/mycelium/mycelium_2"},
+      {"model": "minecraft:block/mycelium/mycelium_2",   "y": 90},
+      {"model": "minecraft:block/mycelium/mycelium_2",   "y": 180},
+      {"model": "minecraft:block/mycelium/mycelium_2",   "y": 270},
+      {"model": "minecraft:block/mycelium/mycelium_3"},
+      {"model": "minecraft:block/mycelium/mycelium_3",   "y": 90},
+      {"model": "minecraft:block/mycelium/mycelium_3",   "y": 180},
+      {"model": "minecraft:block/mycelium/mycelium_3",   "y": 270},
+      {"model": "minecraft:block/mycelium/mycelium_4"},
+      {"model": "minecraft:block/mycelium/mycelium_4",   "y": 90},
+      {"model": "minecraft:block/mycelium/mycelium_4",   "y": 180},
+      {"model": "minecraft:block/mycelium/mycelium_4",   "y": 270}
+    ],
+    "snowy=true": [
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_1"},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_1",    "y": 90},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_1",    "y": 180},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_1",    "y": 270},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_2"},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_2",    "y": 90},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_2",    "y": 180},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_2",    "y": 270},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_3"},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_3",    "y": 90},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_3",    "y": 180},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_3",    "y": 270},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_4"},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_4",    "y": 90},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_4",    "y": 180},
+      {"model": "minecraft:block/mycelium_snow/mycelium_snow_4",    "y": 270}
+    ]
+  }
+}

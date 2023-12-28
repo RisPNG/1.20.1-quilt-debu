@@ -1,0 +1,4 @@
+{
+    condition: "stellar_tweaks.items.handheld_lanterns.vanilla",
+    fallback: "assets/minecraft/models/item/lantern_nea.json"
+}

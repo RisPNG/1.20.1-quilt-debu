@@ -1,0 +1,4 @@
+{
+    condition: "stellar_tweaks.gui.new_new_xp_bar.vanilla",
+    fallback: "assets/minecraft/textures/gui_mods/sprites/hud/experience_bar_background_seg.png"
+}

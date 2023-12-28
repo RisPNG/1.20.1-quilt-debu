@@ -1,0 +1,108 @@
+{
+  "variants": {
+    "moisture=0": [
+      {"model": "minecraft:block/farmland/farmland_m0/farmland_1"},
+      {"model": "minecraft:block/farmland/farmland_m0/farmland_1",    "y": 180, "weight": 3},
+      
+      {"model": "minecraft:block/farmland/farmland_m0/farmland_2"},
+      {"model": "minecraft:block/farmland/farmland_m0/farmland_2",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m0/farmland_3"},
+      {"model": "minecraft:block/farmland/farmland_m0/farmland_3",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m0/farmland_4"},
+      {"model": "minecraft:block/farmland/farmland_m0/farmland_4",    "y": 180, "weight": 3}
+    ],
+    "moisture=1": [
+      {"model": "minecraft:block/farmland/farmland_m1/farmland_1"},
+      {"model": "minecraft:block/farmland/farmland_m1/farmland_1",    "y": 180, "weight": 3},
+      
+      {"model": "minecraft:block/farmland/farmland_m1/farmland_2"},
+      {"model": "minecraft:block/farmland/farmland_m1/farmland_2",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m1/farmland_3"},
+      {"model": "minecraft:block/farmland/farmland_m1/farmland_3",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m1/farmland_4"},
+      {"model": "minecraft:block/farmland/farmland_m1/farmland_4",    "y": 180, "weight": 3}
+      ],
+    "moisture=2": [
+      {"model": "minecraft:block/farmland/farmland_m2/farmland_1"},
+      {"model": "minecraft:block/farmland/farmland_m2/farmland_1",    "y": 180, "weight": 3},
+      
+      {"model": "minecraft:block/farmland/farmland_m2/farmland_2"},
+      {"model": "minecraft:block/farmland/farmland_m2/farmland_2",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m2/farmland_3"},
+      {"model": "minecraft:block/farmland/farmland_m2/farmland_3",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m2/farmland_4"},
+      {"model": "minecraft:block/farmland/farmland_m2/farmland_4",    "y": 180, "weight": 3}
+      ],
+    "moisture=3": [
+      {"model": "minecraft:block/farmland/farmland_m3/farmland_1"},
+      {"model": "minecraft:block/farmland/farmland_m3/farmland_1",    "y": 180, "weight": 3},
+      
+      {"model": "minecraft:block/farmland/farmland_m3/farmland_2"},
+      {"model": "minecraft:block/farmland/farmland_m3/farmland_2",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m3/farmland_3"},
+      {"model": "minecraft:block/farmland/farmland_m3/farmland_3",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m3/farmland_4"},
+      {"model": "minecraft:block/farmland/farmland_m3/farmland_4",    "y": 180, "weight": 3}
+      ],
+    "moisture=4": [
+      {"model": "minecraft:block/farmland/farmland_m4/farmland_1"},
+      {"model": "minecraft:block/farmland/farmland_m4/farmland_1",    "y": 180, "weight": 3},
+      
+      {"model": "minecraft:block/farmland/farmland_m4/farmland_2"},
+      {"model": "minecraft:block/farmland/farmland_m4/farmland_2",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m4/farmland_3"},
+      {"model": "minecraft:block/farmland/farmland_m4/farmland_3",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m4/farmland_4"},
+      {"model": "minecraft:block/farmland/farmland_m4/farmland_4",    "y": 180, "weight": 3}
+      ],
+    "moisture=5": [
+      {"model": "minecraft:block/farmland/farmland_m5/farmland_1"},
+      {"model": "minecraft:block/farmland/farmland_m5/farmland_1",    "y": 180, "weight": 3},
+      
+      {"model": "minecraft:block/farmland/farmland_m5/farmland_2"},
+      {"model": "minecraft:block/farmland/farmland_m5/farmland_2",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m5/farmland_3"},
+      {"model": "minecraft:block/farmland/farmland_m5/farmland_3",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m5/farmland_4"},
+      {"model": "minecraft:block/farmland/farmland_m5/farmland_4",    "y": 180, "weight": 3}
+      ],
+    "moisture=6": [
+      {"model": "minecraft:block/farmland/farmland_m6/farmland_1"},
+      {"model": "minecraft:block/farmland/farmland_m6/farmland_1",    "y": 180, "weight": 3},
+      
+      {"model": "minecraft:block/farmland/farmland_m6/farmland_2"},
+      {"model": "minecraft:block/farmland/farmland_m6/farmland_2",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m6/farmland_3"},
+      {"model": "minecraft:block/farmland/farmland_m6/farmland_3",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m6/farmland_4"},
+      {"model": "minecraft:block/farmland/farmland_m6/farmland_4",    "y": 180, "weight": 3}
+      ],
+    "moisture=7": [
+      {"model": "minecraft:block/farmland/farmland_m7/farmland_1"},
+      {"model": "minecraft:block/farmland/farmland_m7/farmland_1",    "y": 180, "weight": 3},
+      
+      {"model": "minecraft:block/farmland/farmland_m7/farmland_2"},
+      {"model": "minecraft:block/farmland/farmland_m7/farmland_2",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m7/farmland_3"},
+      {"model": "minecraft:block/farmland/farmland_m7/farmland_3",    "y": 180, "weight": 3},
+
+      {"model": "minecraft:block/farmland/farmland_m7/farmland_4"},
+      {"model": "minecraft:block/farmland/farmland_m7/farmland_4",    "y": 180, "weight": 3}
+      ]
+  }
+}

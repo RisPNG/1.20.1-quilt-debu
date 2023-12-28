@@ -1,0 +1,6 @@
+{
+  "parent": "item/bowl",
+  "textures": {
+    "layer0": "farmersdelight:item/dog_food_eating_1"
+  }
+}

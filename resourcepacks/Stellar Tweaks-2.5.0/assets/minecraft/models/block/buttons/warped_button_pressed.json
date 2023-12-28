@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/buttons/button_pressed_template",
+  "textures": {
+    "texture": "minecraft:block/buttons/warped_button"
+  }
+}

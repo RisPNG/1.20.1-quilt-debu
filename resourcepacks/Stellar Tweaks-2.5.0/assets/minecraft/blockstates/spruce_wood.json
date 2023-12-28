@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": [
+    {"model": "minecraft:block/logs/spruce_log/spruce_wood", "x": 90, "y": 90},
+    {"model": "minecraft:block/logs/spruce_log/spruce_wood_2", "x": 90, "y": 90}
+    ],
+    "axis=y": [
+      {"model": "minecraft:block/logs/spruce_log/spruce_wood"},
+      {"model": "minecraft:block/logs/spruce_log/spruce_wood_2"}
+    ],
+    "axis=z": [
+      {"model": "minecraft:block/logs/spruce_log/spruce_wood", "x": 90},
+      {"model": "minecraft:block/logs/spruce_log/spruce_wood_2", "x": 90}
+    ]
+  }
+}

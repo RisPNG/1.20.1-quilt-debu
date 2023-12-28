@@ -1,0 +1,35 @@
+{
+	"credit": "The Stardust System did something here",
+	"textures": {
+		"particle": "block/end_portal_frame_side",
+		"bottom": "block/end_stone",
+		"top": "block/end_portal_frame_top",
+		"side": "block/end_portal_frame_side",
+		"eye": "block/end_portal_frame_eyes/end_portal_frame_eye_e_138"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 13, 16],
+			"faces": {
+				"north": {"uv": [0, 3, 16, 16], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 3, 16, 16], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 3, 16, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 3, 16, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [4, 13, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [8, 13, 16, 16], "texture": "#eye"},
+				"east": {"uv": [0, 13, 8, 16], "texture": "#eye"},
+				"south": {"uv": [8, 13, 16, 16], "texture": "#eye"},
+				"west": {"uv": [0, 13, 8, 16], "texture": "#eye"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#eye", "cullface": "up"}
+			}
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_leggings"
+  },
+  "overrides": [
+    {"predicate": {"nbt": {"dnl": {"name": "heavy_iron_armor","armor": 3}}},"model": "dnl:item/golem_heart_leggings"}
+  ]
+}

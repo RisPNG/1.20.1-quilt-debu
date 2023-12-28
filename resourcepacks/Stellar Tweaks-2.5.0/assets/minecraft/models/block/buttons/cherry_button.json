@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/buttons/button_template",
+  "textures": {
+    "texture": "minecraft:block/buttons/cherry_button"
+  }
+}

@@ -1,0 +1,38 @@
+{
+	"credit": "The Stardust System did something here",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "farmersdelight:item/mutton_wrap"
+	},
+	"overrides": [
+		{"predicate": {"eating": 1, "eat": 0.35}, "model": "farmersdelight:item/mutton_wrap_eating_0"},
+		{"predicate": {"eating": 1, "eat": 0.7}, "model": "farmersdelight:item/mutton_wrap_eating_1"},
+		{"predicate": {"eating": 1, "eat": 0.9}, "model": "farmersdelight:item/mutton_wrap_eating_2"}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, -132],
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 132],
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, -95],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 95],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"head": {
+			"rotation": [0, 0, -125],
+			"translation": [0, 9.75, 0]
+		}
+	}
+}

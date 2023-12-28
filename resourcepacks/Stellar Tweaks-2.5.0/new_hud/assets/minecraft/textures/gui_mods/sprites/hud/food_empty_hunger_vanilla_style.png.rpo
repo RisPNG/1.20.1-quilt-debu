@@ -1,0 +1,4 @@
+{
+    condition: "stellar_tweaks.gui.new_new_hunger_bar.vanilla_styled",
+    fallback: "assets/minecraft/textures/gui_mods/sprites/hud/thisisfakewheee.png"
+}

@@ -1,0 +1,58 @@
+{
+    "variants": {
+        "":     [
+            {"model": "block/crafting_table/crafting_table", "weight": 30},
+            {"model": "block/crafting_table/crafting_table", "weight": 30, "y": 90},
+            {"model": "block/crafting_table/crafting_table", "weight": 30, "y": 180},
+            {"model": "block/crafting_table/crafting_table", "weight": 30, "y": 270},
+
+            {"model": "block/crafting_table/crafting_table_1", "weight": 30},
+            {"model": "block/crafting_table/crafting_table_1", "weight": 30, "y": 90},
+            {"model": "block/crafting_table/crafting_table_1", "weight": 30, "y": 180},
+            {"model": "block/crafting_table/crafting_table_1", "weight": 30, "y": 270},
+
+            {"model": "block/crafting_table/crafting_table_2", "weight": 30},
+            {"model": "block/crafting_table/crafting_table_2", "weight": 30, "y": 90},
+            {"model": "block/crafting_table/crafting_table_2", "weight": 30, "y": 180},
+            {"model": "block/crafting_table/crafting_table_2", "weight": 30, "y": 270},
+
+            {"model": "block/crafting_table/crafting_table_3", "weight": 30},
+            {"model": "block/crafting_table/crafting_table_3", "weight": 30, "y": 90},
+            {"model": "block/crafting_table/crafting_table_3", "weight": 30, "y": 180},
+            {"model": "block/crafting_table/crafting_table_3", "weight": 30, "y": 270},
+            
+            {"model": "block/crafting_table/crafting_table_4", "weight": 30},
+            {"model": "block/crafting_table/crafting_table_4", "weight": 30, "y": 90},
+            {"model": "block/crafting_table/crafting_table_4", "weight": 30, "y": 180},
+            {"model": "block/crafting_table/crafting_table_4", "weight": 30, "y": 270},
+            
+            {"model": "block/crafting_table/crafting_table_5", "weight": 30},
+            {"model": "block/crafting_table/crafting_table_5", "weight": 30, "y": 90},
+            {"model": "block/crafting_table/crafting_table_5", "weight": 30, "y": 180},
+            {"model": "block/crafting_table/crafting_table_5", "weight": 30, "y": 270},
+            
+            {"model": "block/crafting_table/crafting_table_6", "weight": 30},
+            {"model": "block/crafting_table/crafting_table_6", "weight": 30, "y": 90},
+            {"model": "block/crafting_table/crafting_table_6", "weight": 30, "y": 180},
+            {"model": "block/crafting_table/crafting_table_6", "weight": 30, "y": 270},
+            
+            {"model": "block/crafting_table/crafting_table_7", "weight": 30},
+            {"model": "block/crafting_table/crafting_table_7", "weight": 30, "y": 90},
+            {"model": "block/crafting_table/crafting_table_7", "weight": 30, "y": 180},
+            {"model": "block/crafting_table/crafting_table_7", "weight": 30, "y": 270},
+            
+            {"model": "block/crafting_table/crafting_table_8", "weight": 30},
+            {"model": "block/crafting_table/crafting_table_8", "weight": 30, "y": 90},
+            {"model": "block/crafting_table/crafting_table_8", "weight": 30, "y": 180},
+            {"model": "block/crafting_table/crafting_table_8", "weight": 30, "y": 270},
+
+            {"model": "block/crafting_table/crafting_table_9", "weight": 30},
+            {"model": "block/crafting_table/crafting_table_9", "weight": 30, "y": 90},
+            {"model": "block/crafting_table/crafting_table_9", "weight": 30, "y": 180},
+            {"model": "block/crafting_table/crafting_table_9", "weight": 30, "y": 270},
+
+            {"model": "block/crafting_table/crafting_table_empty", "weight": 1},
+            {"model": "block/crafting_table/crafting_table", "weight": 1, "x": 180}
+            ]
+    }
+}

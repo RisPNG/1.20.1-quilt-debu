@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/axolotl_bucket"
+  },
+  "overrides": [
+    {"predicate": {"nbt": {"Variant": 1}}, "model": "item/axolotl_bucket/axolotl_bucket_1"},
+    {"predicate": {"nbt": {"Variant": 2}}, "model": "item/axolotl_bucket/axolotl_bucket_2"},
+    {"predicate": {"nbt": {"Variant": 3}}, "model": "item/axolotl_bucket/axolotl_bucket_3"},
+    {"predicate": {"nbt": {"Variant": 4}}, "model": "item/axolotl_bucket/axolotl_bucket_4"},
+    {"predicate": {"nbt": {"Variant": 0, "Age": "<0"}}, "model": "item/axolotl_bucket/axolotl_bucket_b"},
+    {"predicate": {"nbt": {"Variant": 1, "Age": "<0"}}, "model": "item/axolotl_bucket/axolotl_bucket_1_b"},
+    {"predicate": {"nbt": {"Variant": 2, "Age": "<0"}}, "model": "item/axolotl_bucket/axolotl_bucket_2_b"},
+    {"predicate": {"nbt": {"Variant": 3, "Age": "<0"}}, "model": "item/axolotl_bucket/axolotl_bucket_3_b"},
+    {"predicate": {"nbt": {"Variant": 4, "Age": "<0"}}, "model": "item/axolotl_bucket/axolotl_bucket_4_b"},
+
+    {"predicate": {"nbt": {"Variant": "minecraft:lucy", "Age": "<0"}}, "model": "item/axolotl_bucket/axolotl_bucket_b"},
+    {"predicate": {"nbt": {"Variant": "minecraft:wild"}}, "model": "item/axolotl_bucket/axolotl_bucket_1"},
+    {"predicate": {"nbt": {"Variant": "minecraft:wild", "Age": "<0"}}, "model": "item/axolotl_bucket/axolotl_bucket_1_b"},
+    {"predicate": {"nbt": {"Variant": "minecraft:gold"}}, "model": "item/axolotl_bucket/axolotl_bucket_2"},
+    {"predicate": {"nbt": {"Variant": "minecraft:gold", "Age": "<0"}}, "model": "item/axolotl_bucket/axolotl_bucket_2_b"},
+    {"predicate": {"nbt": {"Variant": "minecraft:cyan"}}, "model": "item/axolotl_bucket/axolotl_bucket_3"},
+    {"predicate": {"nbt": {"Variant": "minecraft:cyan", "Age": "<0"}}, "model": "item/axolotl_bucket/axolotl_bucket_3_b"},
+    {"predicate": {"nbt": {"Variant": "minecraft:blue"}}, "model": "item/axolotl_bucket/axolotl_bucket_4"},
+    {"predicate": {"nbt": {"Variant": "minecraft:blue", "Age": "<0"}}, "model": "item/axolotl_bucket/axolotl_bucket_4_b"},
+
+    {"predicate": {"nbt": {"Variant": "mavm:lucia"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_lucia"},
+    {"predicate": {"nbt": {"Variant": "mavm:lucia", "Age": "<0"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_lucia_b"},
+    {"predicate": {"nbt": {"Variant": "mavm:black"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_black"},
+    {"predicate": {"nbt": {"Variant": "mavm:black", "Age": "<0"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_black_b"},
+    {"predicate": {"nbt": {"Variant": "mavm:wilder"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_wilder"},
+    {"predicate": {"nbt": {"Variant": "mavm:wilder", "Age": "<0"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_wilder_b"},
+    {"predicate": {"nbt": {"Variant": "mavm:white"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_white"},
+    {"predicate": {"nbt": {"Variant": "mavm:white", "Age": "<0"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_white_b"},
+    {"predicate": {"nbt": {"Variant": "mavm:golden"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_golden"},
+    {"predicate": {"nbt": {"Variant": "mavm:golden", "Age": "<0"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_golden_b"},
+    {"predicate": {"nbt": {"Variant": "mavm:skulk"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_skulk"},
+    {"predicate": {"nbt": {"Variant": "mavm:skulk", "Age": "<0"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_skulk_b"},
+    {"predicate": {"nbt": {"Variant": "mavm:glowxolotl"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_glowxolotl"},
+    {"predicate": {"nbt": {"Variant": "mavm:glowxolotl", "Age": "<0"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_glowxolotl_b"},
+    {"predicate": {"nbt": {"Variant": "mavm:red"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_red"},
+    {"predicate": {"nbt": {"Variant": "mavm:red", "Age": "<0"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_red_b"},
+    {"predicate": {"nbt": {"Variant": "mavm:green"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_green"},
+    {"predicate": {"nbt": {"Variant": "mavm:green", "Age": "<0"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_green_b"},
+    {"predicate": {"nbt": {"Variant": "mavm:cyanide"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_cyanide"},
+    {"predicate": {"nbt": {"Variant": "mavm:cyanide", "Age": "<0"}}, "model": "item/axolotl_bucket/mavm/axolotl_bucket_cyanide_b"}
+  ]
+}

@@ -1,0 +1,109 @@
+{
+	"credit": "The Stardust System did something here",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "item/end_crystal_item"
+	},
+	"elements": [
+		{
+			"from": [4, 3, 4],
+			"to": [12, 11, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [10, 4, 12, 8], "texture": "#0"},
+				"east": {"uv": [8, 4, 10, 8], "texture": "#0"},
+				"south": {"uv": [14, 4, 16, 8], "texture": "#0"},
+				"west": {"uv": [12, 4, 14, 8], "texture": "#0"},
+				"up": {"uv": [12, 4, 10, 0], "texture": "#0"},
+				"down": {"uv": [14, 0, 12, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "glass",
+			"from": [3, 2, 3],
+			"to": [13, 12, 13],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2, 4, 4, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 2, 8], "texture": "#0"},
+				"south": {"uv": [6, 4, 8, 8], "texture": "#0"},
+				"west": {"uv": [4, 4, 6, 8], "texture": "#0"},
+				"up": {"uv": [4, 4, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "glass",
+			"from": [3, 2, 3],
+			"to": [13, 12, 13],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2, 4, 4, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 2, 8], "texture": "#0"},
+				"south": {"uv": [6, 4, 8, 8], "texture": "#0"},
+				"west": {"uv": [4, 4, 6, 8], "texture": "#0"},
+				"up": {"uv": [4, 4, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 4], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 225, 0],
+			"translation": [0.25, 2, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"translation": [0.25, 2, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 0.75, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"head": {
+			"rotation": [0, 135, 0],
+			"translation": [-0.25, 14.5, 0]
+		},
+		"fixed": {
+			"rotation": [0, 44, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "cube",
+			"origin": [0, 10, 0],
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "glass",
+			"origin": [0, 10, 0],
+			"color": 0,
+			"children": [1]
+		},
+		{
+			"name": "glass2",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2]
+		}
+	]
+}

@@ -27,7 +27,7 @@ globalExecutorParallelism = "default"
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Whether to modify maximum view distance
 		enabled = false
-		# (Default: 35) Max render distance allowed in game options
+		# (Default: 54) Max render distance allowed in game options
 		maxViewDistance = "default"
 
 [noTickViewDistance]

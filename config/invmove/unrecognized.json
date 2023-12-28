@@ -45,7 +45,8 @@
     "org.anti_ad.mc.ipnext.gui.ConfigScreen": true,
     "com.koteinik.chunksfadein.gui.SettingsScreen": true,
     "io.github.ultimateboomer.resolutioncontrol.client.gui.screen.MainSettingsScreen": true,
-    "io.github.ultimateboomer.resolutioncontrol.client.gui.screen.ScreenshotSettingsScreen": true
+    "io.github.ultimateboomer.resolutioncontrol.client.gui.screen.ScreenshotSettingsScreen": true,
+    "traben.entity_texture_features.config.screens.ETFConfigScreenMain": true
   },
   "hideBackground": {
     "net.minecraft.class_4895": true,

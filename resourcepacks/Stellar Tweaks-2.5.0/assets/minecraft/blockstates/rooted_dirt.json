@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt"},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt",    "y": 90},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt",    "y": 180},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt",    "y": 270},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_2"},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_2",    "y": 90},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_2",    "y": 180},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_2",    "y": 270},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_3"},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_3",    "y": 90},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_3",    "y": 180},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_3",    "y": 270},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_4"},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_4",    "y": 90},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_4",    "y": 180},
+      {"model": "minecraft:block/rooted_dirt/rooted_dirt_4",    "y": 270}
+    ]
+  }
+}

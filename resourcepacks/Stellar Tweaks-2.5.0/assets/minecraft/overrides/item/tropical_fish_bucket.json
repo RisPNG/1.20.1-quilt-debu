@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/tropical_fish_bucket"
+  },
+  "overrides": [
+    {"predicate": {"nbt": {"BucketVariantTag": 917504}}, "model": "item/tropical_fish_bucket/tomato_clownfish"},
+    {"predicate": {"nbt": {"BucketVariantTag": 67764993}}, "model": "item/tropical_fish_bucket/dottyback"},
+    {"predicate": {"nbt": {"BucketVariantTag": 918273}}, "model": "item/tropical_fish_bucket/red_snapper"},
+    {"predicate": {"nbt": {"BucketVariantTag": 459008}}, "model": "item/tropical_fish_bucket/triggerfish"},
+    {"predicate": {"nbt": {"BucketVariantTag": 101253888}}, "model": "item/tropical_fish_bucket/parrotfish"},
+    {"predicate": {"nbt": {"BucketVariantTag": 34537729}}, "model": "item/tropical_fish_bucket/random/stripey_black_magenta"}
+  ]
+}

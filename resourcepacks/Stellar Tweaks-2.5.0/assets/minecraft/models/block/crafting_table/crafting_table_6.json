@@ -1,0 +1,25 @@
+{
+	"credit": "The Stardust System did something here",
+	"parent": "block/block",
+	"textures": {
+		"3": "block/crafting_table/crafting_table_bottom",
+		"6": "block/crafting_table/crafting_table_front",
+		"7": "block/crafting_table/crafting_table_side_1",
+		"10": "block/crafting_table/crafting_table_top",
+		"particle": "block/crafting_table/crafting_table_empty"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#7", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#6", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#6", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#particle", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#10", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3", "cullface": "down"}
+			}
+		}
+	]
+}

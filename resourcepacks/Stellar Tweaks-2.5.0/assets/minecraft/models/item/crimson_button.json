@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/button_inventory",
+	"textures": {
+		"texture": "minecraft:block/buttons/crimson_button"
+	  }
+}

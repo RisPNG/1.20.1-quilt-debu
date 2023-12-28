@@ -1,8 +1,0 @@
-{
-	"credit": "The Stardust System did something here",
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "item/mushroom_stew",
-		"particle": "item/mushroom_stew_particle"
-	}
-}

@@ -1,0 +1,4 @@
+{
+    condition: "stellar_tweaks.gui.new_health_bar.vanilla_plus",
+    fallback: "assets/minecraft/textures/gui_mods/sprites/hud/spoof"
+}

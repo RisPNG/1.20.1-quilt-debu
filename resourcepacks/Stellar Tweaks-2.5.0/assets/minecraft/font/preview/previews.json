@@ -1,0 +1,66 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/crosshair_preview.png",
+			"ascent": 11.5,
+			"height": 16,
+			"chars": [
+				"\ue13a\ue14a\ue15a\ue16a\ue17a\ue18a\ue19a"
+            ]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/hunger_preview.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": [
+				"\ue20a\ue21a",
+                "\ue22a\ue23a",
+                "\ue24a\ue25a"
+            ]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/xp_preview.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"\ue26a",
+                "\ue27a",
+                "\ue28a",
+                "\ue29a"
+            ]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/hotbar_preview.png",
+			"ascent": 12,
+			"height": 16,
+			"chars": [
+				"\ue30a\ue31a\ue32a\ue33a",
+				"\ue34a\ue35a\ue36a\ue37a"
+            ]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/heart_preview.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": [
+				"\ue38a\ue39a\ue40a\ue41a",
+				"\ue42a\ue43a\ue44a\ue45a"
+            ]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/armor_preview.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": [
+				"\ue46a\ue47a",
+				"\ue48a\ue49a"
+            ]
+		}
+    ]
+}

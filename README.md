@@ -102,6 +102,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [oωo (owo-lib) by glisco](https://modrinth.com/mod/owo-lib)
 * [Perspektive by r0yzer](https://modrinth.com/mod/perspektive)
 * [Presence Footsteps by Sollace](https://modrinth.com/mod/presence-footsteps)
+* [PurpurClient by PurpurMC](https://modrinth.com/mod/purpurclient)
 * [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL) by Quilt-Holdings](https://modrinth.com/mod/qsl)
 * [Quilt Kotlin Libraries (QKL) by Quilt-Holdings](https://modrinth.com/mod/qkl)
 * [Raised by yurisuika](https://modrinth.com/mod/raised)
@@ -149,7 +150,7 @@ If you have any issues or you want to contribute, you are welcome! But please re
 * [MakeUp - Ultra Fast by javiergcim](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 
 ## How to use
-#### 1. Install the latest version of [Quilt Loader >= 0.22.1](https://quiltmc.org/en/install/) for Minecraft 1.20.1.
+#### 1. Install the latest version of [Quilt Loader >= 0.22.0](https://quiltmc.org/en/install/) for Minecraft 1.20.1.
 #### 2. Clone the repo.
 * Install [git](https://git-scm.com/downloads) for your system.
 * Open the terminal and execute the following command:

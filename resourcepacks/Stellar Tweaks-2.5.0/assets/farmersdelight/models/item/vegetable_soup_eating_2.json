@@ -1,0 +1,6 @@
+{
+  "parent": "item/bowl",
+  "textures": {
+    "layer0": "farmersdelight:item/vegetable_soup_eating_2"
+  }
+}

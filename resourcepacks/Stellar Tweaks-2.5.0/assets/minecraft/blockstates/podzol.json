@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "snowy=false": [
+      {"model": "minecraft:block/podzol/podzol"},
+      {"model": "minecraft:block/podzol/podzol",     "y": 90},
+      {"model": "minecraft:block/podzol/podzol",     "y": 180},
+      {"model": "minecraft:block/podzol/podzol",     "y": 270},
+      {"model": "minecraft:block/podzol/podzol_2"},
+      {"model": "minecraft:block/podzol/podzol_2",   "y": 90},
+      {"model": "minecraft:block/podzol/podzol_2",   "y": 180},
+      {"model": "minecraft:block/podzol/podzol_2",   "y": 270},
+      {"model": "minecraft:block/podzol/podzol_3"},
+      {"model": "minecraft:block/podzol/podzol_3",   "y": 90},
+      {"model": "minecraft:block/podzol/podzol_3",   "y": 180},
+      {"model": "minecraft:block/podzol/podzol_3",   "y": 270},
+      {"model": "minecraft:block/podzol/podzol_4"},
+      {"model": "minecraft:block/podzol/podzol_4",   "y": 90},
+      {"model": "minecraft:block/podzol/podzol_4",   "y": 180},
+      {"model": "minecraft:block/podzol/podzol_4",   "y": 270}
+    ],
+    "snowy=true": [
+      {"model": "minecraft:block/podzol_snow/podzol_snow_1"},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_1",    "y": 90},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_1",    "y": 180},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_1",    "y": 270},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_2"},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_2",    "y": 90},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_2",    "y": 180},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_2",    "y": 270},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_3"},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_3",    "y": 90},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_3",    "y": 180},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_3",    "y": 270},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_4"},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_4",    "y": 90},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_4",    "y": 180},
+      {"model": "minecraft:block/podzol_snow/podzol_snow_4",    "y": 270}
+    ]
+  }
+}

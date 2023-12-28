@@ -1,0 +1,4 @@
+{
+    condition: "stellar_tweaks.gui.new_crosshair.no_middle",
+    fallback: "assets/minecraft/textures/gui_mods/sprites/hud/crosshair_cross_plus_dot.png"
+}

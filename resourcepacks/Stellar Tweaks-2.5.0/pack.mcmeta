@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 7,
+      "max_inclusive": 18
+    },
+    "description": "Version 2.5.0 §aRelease \n§r§9By The Stardust System§r"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 16,
+          "max_inclusive": 999
+        },
+        "directory": "new_hud"
+      }
+    ]
+  }
+}

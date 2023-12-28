@@ -1,0 +1,34 @@
+{
+	"credit": "The Stardust System did something here",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "eatinganimationid:item/golden_carrot_eating_0"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, -140],
+			"translation": [0, 2.25, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 140],
+			"translation": [0, 2.25, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"gui": {
+			"translation": [-1, 0, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 45],
+			"translation": [0, 10, 1]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

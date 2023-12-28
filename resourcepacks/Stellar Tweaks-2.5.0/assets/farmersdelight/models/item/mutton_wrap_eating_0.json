@@ -1,0 +1,6 @@
+{
+  "parent": "farmersdelight:item/mutton_wrap",
+  "textures": {
+    "layer0": "farmersdelight:item/mutton_wrap_eating_0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "eatinganimationid:item/cooked_porkchop_eating_1"
+  },
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.75, 3.25, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.75, 3.25, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"gui": {
+			"translation": [-0.5, 0, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 13, 0.25]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0.5, 0, 0]
+		}
+	}
+}

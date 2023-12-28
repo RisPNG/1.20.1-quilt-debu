@@ -1,0 +1,4 @@
+{
+    condition: "stellar_tweaks.gui.new_new_hunger_bar.carrots",
+    fallback: "assets/minecraft/textures/gui_mods/sprites/hud/food_full_vanilla_style.png"
+}

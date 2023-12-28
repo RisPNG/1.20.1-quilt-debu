@@ -1,0 +1,4 @@
+{
+    condition: "stellar_tweaks.gui.new_icons.carrot",
+    fallback: "assets/minecraft/textures/gui/icons_vanilla_hunger.png"
+}

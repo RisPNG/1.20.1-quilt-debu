@@ -1,0 +1,4 @@
+{
+    condition: "stellar_tweaks.gui.new_hotbar.shadow",
+    fallback: "assets/minecraft/textures/gui/spoof.png"
+}
