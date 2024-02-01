@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_orientable_trapdoor_opened",
-  "textures": {
-	"sides": "minecraft:block/mangrove_planks",
-    "texture": "minecraft:block/mangrove_trapdoor"
-  }
-}

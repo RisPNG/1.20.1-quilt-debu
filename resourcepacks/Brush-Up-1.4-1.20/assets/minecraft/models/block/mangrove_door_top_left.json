@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_door_top_left",
-  "textures": {
-    "sides": "minecraft:block/mangrove_planks",
-    "bottom": "minecraft:block/mangrove_door_bottom",
-    "top": "minecraft:block/mangrove_door_top"
-  }
-}

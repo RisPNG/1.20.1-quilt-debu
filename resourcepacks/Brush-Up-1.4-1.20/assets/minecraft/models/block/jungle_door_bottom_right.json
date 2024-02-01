@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_door_bottom_right",
-  "textures": {
-    "sides": "minecraft:block/jungle_planks",
-    "bottom": "minecraft:block/jungle_door_bottom",
-    "top": "minecraft:block/jungle_door_top"
-  }
-}

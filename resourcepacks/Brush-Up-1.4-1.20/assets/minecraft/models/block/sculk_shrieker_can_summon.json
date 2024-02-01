@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/template_sculk_shrieker",
-	"textures": {
-		"inner_top": "block/sculk_shrieker_can_summon_inner_top"
-	}
-}

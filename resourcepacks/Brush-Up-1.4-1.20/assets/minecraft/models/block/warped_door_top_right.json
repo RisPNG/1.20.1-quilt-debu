@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_door_top_right",
-  "textures": {
-    "sides": "minecraft:block/warped_planks",
-    "bottom": "minecraft:block/warped_door_bottom",
-    "top": "minecraft:block/warped_door_top"
-  }
-}

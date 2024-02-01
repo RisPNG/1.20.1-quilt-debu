@@ -1,9 +1,0 @@
-{
-    "sources": [
-        {
-            "type": "directory",
-            "source": "item_particle",
-            "prefix": "item/particle/"
-        }
-    ]
-}

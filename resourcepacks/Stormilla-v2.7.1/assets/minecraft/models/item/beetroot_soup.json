@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/_parent_bowl",
-  "textures": {
-	"particle": "minecraft:item/beetroot_soup_particle",
-    "layer0": "minecraft:item/beetroot_soup"
-  }
-}

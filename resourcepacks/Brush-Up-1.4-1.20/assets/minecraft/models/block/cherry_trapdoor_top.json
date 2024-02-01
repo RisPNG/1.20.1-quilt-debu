@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_orientable_trapdoor_up",
-  "textures": {
-	"sides": "minecraft:block/cherry_planks",
-    "texture": "minecraft:block/cherry_trapdoor"
-  }
-}

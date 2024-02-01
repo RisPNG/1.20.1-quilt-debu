@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_door_bottom_left_open",
-  "textures": {
-    "sides": "minecraft:block/dark_oak_planks",
-    "bottom": "minecraft:block/dark_oak_door_bottom",
-    "top": "minecraft:block/dark_oak_door_top"
-  }
-}

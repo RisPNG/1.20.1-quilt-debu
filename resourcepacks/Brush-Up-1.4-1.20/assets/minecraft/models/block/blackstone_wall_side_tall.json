@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_wall_column_side_tall",
-  "textures": {
-    "wall": "minecraft:block/blackstone",
-	"top": "minecraft:block/blackstone_top"
-  }
-}

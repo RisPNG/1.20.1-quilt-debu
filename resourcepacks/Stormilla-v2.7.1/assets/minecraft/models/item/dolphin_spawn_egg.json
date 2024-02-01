@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/template_fish_spawn_egg",
-    "textures": {
-        "0": "item/dolphin_spawn_egg"
-    }
-  }

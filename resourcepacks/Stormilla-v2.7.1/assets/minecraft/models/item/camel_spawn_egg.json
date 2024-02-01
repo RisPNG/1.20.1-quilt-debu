@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/template_side_ears_spawn_egg",
-    "textures": {
-        "0": "item/camel_spawn_egg"
-    }
-  }
